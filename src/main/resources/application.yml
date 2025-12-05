@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: event
+
+logging:
+  level:
+    org.springframework.web.filter.CommonsRequestLoggingFilter: DEBUG
+    com.classic.event.config.LoggingConfig: INFO
+
+event:
+  deutsche-oper-berlin:
+    url: https://deutscheoperberlin.de/de_DE/event.json
+    params:
+      search: ""
+      id_city_region_search: ""
+      category_system: from_file
+      category: ""
+      location: ""
+      status_type: ""
+  staatsoper:
+    url: https://www.staatsoper-berlin.de/de/spielplan/_f/%s
+  staats-oper-berlin:
+    url: https://www.staatsoper-berlin.de/de/
