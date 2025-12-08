@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service
 class StaatsOperBerlinEventService(
     private val remoteSiteService: RemoteSiteService,
     private val properties: StaatsOperBerlinProperties,
-    private val parser: StaatsOperBerlinHtmlParser,
+    private val parser: StaatsOperBerlinHtmlParser
 ) {
     private val dateFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy")
 
@@ -23,7 +23,7 @@ class StaatsOperBerlinEventService(
                 url = targetUrl,
                 headers = properties.headers,
                 queryParams = properties.params,
-                responseType = object : ParameterizedTypeReference<String>() {},
+                responseType = object : ParameterizedTypeReference<String>() {}
             )
         return parser.parse(html)
     }

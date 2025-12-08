@@ -1,0 +1,1417 @@
+
+
+
+
+                                <div class="spielplan-day">
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="124815">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-16 20:00:00">
+                                                    <span>Di.</span>
+                                <span>16.12.</span>
+                                    <span>20.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/apollosaal.40/">Apollosaal</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/konzert-des-jugendchors-der-staatsoper.22258/#event-124815">
+                        <span>Konzert des Jugendchors der Staatsoper</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                    <div class="termin__ausverkauft">ausverkauft</div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+                                                        </div>
+                                <div class="spielplan-day">
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="146860">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-17 17:45:00">
+                                                    <span>Mi.</span>
+                                <span>17.12.</span>
+                                    <span>17.45</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/vor-fuehrung.22834/#event-146860">
+                        <span>Vor-Führung</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                            <div class="termin__buchungshinweis">
+            <div class="wysiwyg infotext theme-brand hyphenate">
+                                    <p>Nur für Gäste der Abendvorstellung buchbar</p>
+                            </div>
+        </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                             js-termin-mit-mehr-infos
+                    " data-termin-id="123332">
+    <div class="termin  ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-17 19:00:00">
+                                                    <span>Mi.</span>
+                                <span>17.12.</span>
+                                    <span>19.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/die-zauberfloete.15/#event-123332">
+                        <span>Die Zauberflöte</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+                        Wolfgang Amadeus Mozart
+                    </div>
+
+
+                            <div class="u-mt--auto u-hidden@phone u-block@desktop">                     <button type="button" class="button-link icon-container u-mt u-hidden-nojs js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-123332">mehr Infos<i class="icon" aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                        </i>
+                    </button>
+                </div>
+                <div
+                    id="mehr-infos-123332"
+                    class="termin__mehr-infos u-mt u-pb u-hidden o-flow"
+                    tabindex="-1"
+                >
+                                                <div class="termin__spieldauer">
+        Dauer: ca. 3:00 h inklusive einer Pause nach dem 1. Akt
+    </div>
+
+
+
+
+
+
+    <div
+        class="besetzung flow"
+        id="besetzung-123332"            >
+        <h4>Besetzung</h4>
+        <ul class="besetzung__liste u-mt">
+
+
+                <!-- Leitung &amp; Technik -->
+
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Musikalische Leitung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/giuseppe-mentuccia.2684/"><span>Giuseppe Mentuccia</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Inszenierung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/august-everding.1122/"><span>August Everding</span></a>                </div>
+                    </div>
+
+                                            </li>
+
+
+                <!-- Künstler -->
+
+                <li class="besetzung__item u-mt">
+                                                                            <span class="besetzung__rolle">Sarastro:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/rene-pape.1101/"><span>René Pape</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Königin der Nacht:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/maria-kokareva.3270/"><span>Maria Kokareva</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Pamina:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/elsa-dreisig.1128/"><span>Elsa Dreisig</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Tamino:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/andres-moreno-garcia.1512/"><span>Andrés Moreno García</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Papageno:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/jaka-mihelac.2236/"><span>Jaka Mihelač</span></a>                </div>
+                    </div>
+
+                                            </li>
+                                    </ul>
+    </div>
+
+
+
+                    <div class="termin__weniger-infos-button u-mt">
+                        <button type="button" class="button-link icon-container js-termin-zeige-weniger-infos" aria-expanded="false" aria-controls="mehr-infos-123332">weniger Infos<i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 44 44"><path d="M24.3 43.9h-4.6l.1-34.8L5.4 23.5 2 20.2 21.9.1l20.1 20-3.4 3.3L24.3 9v34.9z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                </div>
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                    <div class="termin__ausverkauft">ausverkauft</div>
+
+
+                                    <div class="u-hidden@desktop">                         <button type="button" class="button-link icon-container u-hidden-nojs u-flex js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-123332">
+                            mehr Infos&nbsp;
+                            <i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="146842">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-17 22:30:00">
+                                                    <span>Mi.</span>
+                                <span>17.12.</span>
+                                    <span>22.30</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/nach-t-fuehrung.10795/#event-146842">
+                        <span>Nach(t)führung</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                            <div class="termin__ticket-button">
+                <a class="button " href="https://staatsoper-berlin.eventim-inhouse.de/webshop/webticket/shop?language=de&amp;event=19640">Tickets</a>
+            </div>
+                        <div class="termin__preisinformation">
+            <div class="dropdown">
+                                    <div>
+
+
+
+    <span style="text-align: end">&euro;&#8201;<span style="margin-inline-start: calc(var(--space-3xs-2xs) * -1);">
+            &#8203;  10</span>
+    </span>
+                    </div>
+                            </div>
+                    </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+                                                        </div>
+                                <div class="spielplan-day">
+
+
+
+
+<article class="termin-list__item | js-termin                             js-termin-mit-mehr-infos
+                    " data-termin-id="123423">
+    <div class="termin  ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-18 19:30:00">
+                                                    <span>Do.</span>
+                                <span>18.12.</span>
+                                    <span>19.30</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/wozzeck.9702/#event-123423">
+                        <span>Wozzeck</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+                        Oper in drei Akten von Alban Berg
+                    </div>
+
+
+                            <div class="u-mt--auto u-hidden@phone u-block@desktop">                     <button type="button" class="button-link icon-container u-mt u-hidden-nojs js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-123423">mehr Infos<i class="icon" aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                        </i>
+                    </button>
+                </div>
+                <div
+                    id="mehr-infos-123423"
+                    class="termin__mehr-infos u-mt u-pb u-hidden o-flow"
+                    tabindex="-1"
+                >
+                                                <div class="termin__spieldauer">
+        Dauer: ca. 1:40 h ohne Pause
+    </div>
+
+
+
+
+
+
+    <div
+        class="besetzung flow"
+        id="besetzung-123423"            >
+        <h4>Besetzung</h4>
+        <ul class="besetzung__liste u-mt">
+
+
+                <!-- Leitung &amp; Technik -->
+
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Musikalische Leitung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/christian-thielemann.3157/"><span>Christian Thielemann</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Inszenierung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/andrea-breth.1058/"><span>Andrea Breth</span></a>                </div>
+                    </div>
+
+                                            </li>
+
+
+                <!-- Künstler -->
+
+                <li class="besetzung__item u-mt">
+                                                                            <span class="besetzung__rolle">Wozzeck:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/simon-keenlyside.3280/"><span>Simon Keenlyside</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Marie:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/anja-kampe.1505/"><span>Anja Kampe</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Tambourmajor:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/andreas-schager.1127/"><span>Andreas Schager</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Andres:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/florian-hoffmann.1034/"><span>Florian Hoffmann</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Hauptmann:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/wolfgang-ablinger-sperrhacke.2265/"><span>Wolfgang Ablinger-Sperrhacke</span></a>                </div>
+                    </div>
+
+                                            </li>
+                                    </ul>
+    </div>
+
+
+
+                    <div class="termin__weniger-infos-button u-mt">
+                        <button type="button" class="button-link icon-container js-termin-zeige-weniger-infos" aria-expanded="false" aria-controls="mehr-infos-123423">weniger Infos<i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 44 44"><path d="M24.3 43.9h-4.6l.1-34.8L5.4 23.5 2 20.2 21.9.1l20.1 20-3.4 3.3L24.3 9v34.9z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                </div>
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                            <div class="termin__ticket-button">
+                <a class="button " href="https://staatsoper-berlin.eventim-inhouse.de/webshop/webticket/shop?language=de&amp;event=19159">Tickets</a>
+            </div>
+                        <div class="termin__preisinformation">
+            <div class="dropdown">
+                                    <button class="button-link icon-container" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="--icon-gap: var(--space-xs);">
+
+
+
+
+
+
+
+
+
+
+    <span style="text-align: end">&euro;&#8201;<span style="margin-inline-start: calc(var(--space-3xs-2xs) * -1);">
+            &#8203;  115  100  80&#8203;  62  42  29&#8203;  15  11</span>
+    </span>
+                        <i aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                        </i>
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu--right@desktop-xl">
+                        <li class="theme-brand u-bgcolor-weiss"><a href="/de/spielplan/ticket/wozzeck.123423" shape="rect">Login</a>
+                                                            StaatsopernCard                                                    </li>
+                    </ul>
+                            </div>
+                    </div>
+
+
+                                    <div class="u-hidden@desktop">                         <button type="button" class="button-link icon-container u-hidden-nojs u-flex js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-123423">
+                            mehr Infos&nbsp;
+                            <i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                                                </div>
+            </div>
+</article>
+
+
+
+                                                        </div>
+                                <div class="spielplan-day">
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="146861">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-19 18:15:00">
+                                                    <span>Fr.</span>
+                                <span>19.12.</span>
+                                    <span>18.15</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/vor-fuehrung.22834/#event-146861">
+                        <span>Vor-Führung</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                            <div class="termin__buchungshinweis">
+            <div class="wysiwyg infotext theme-brand hyphenate">
+                                    <p>Nur für Gäste der Abendvorstellung buchbar</p>
+                            </div>
+        </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="125424">
+    <div class="termin  ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-19 19:30:00">
+                                                    <span>Fr.</span>
+                                <span>19.12.</span>
+                                    <span>19.30</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/schwanensee.15522/#event-125424">
+                        <span>Schwanensee</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                    <div class="termin__ausverkauft">ausverkauft</div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="146843">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-19 23:00:00">
+                                                    <span>Fr.</span>
+                                <span>19.12.</span>
+                                    <span>23.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/nach-t-fuehrung.10795/#event-146843">
+                        <span>Nach(t)führung</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                            <div class="termin__ticket-button">
+                <a class="button " href="https://staatsoper-berlin.eventim-inhouse.de/webshop/webticket/shop?language=de&amp;event=19641">Tickets</a>
+            </div>
+                        <div class="termin__preisinformation">
+            <div class="dropdown">
+                                    <div>
+
+
+
+    <span style="text-align: end">&euro;&#8201;<span style="margin-inline-start: calc(var(--space-3xs-2xs) * -1);">
+            &#8203;  10</span>
+    </span>
+                    </div>
+                            </div>
+                    </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+                                                        </div>
+                                <div class="spielplan-day">
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="146862">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-20 16:45:00">
+                                                    <span>Sa.</span>
+                                <span>20.12.</span>
+                                    <span>16.45</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/vor-fuehrung.22834/#event-146862">
+                        <span>Vor-Führung</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                            <div class="termin__buchungshinweis">
+            <div class="wysiwyg infotext theme-brand hyphenate">
+                                    <p>Nur für Gäste der Abendvorstellung buchbar</p>
+                            </div>
+        </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                             js-termin-mit-mehr-infos
+                    " data-termin-id="68284">
+    <div class="termin  ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-20 18:00:00">
+                                                    <span>Sa.</span>
+                                <span>20.12.</span>
+                                    <span>18.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+                            <div class="termin__kalendarien">
+                    <ul class="list--unstyled">
+                                                    <li class="u-inline-block">Familienvorstellung</li>
+                                            </ul>
+                </div>
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/la-boheme.24/#event-68284">
+                        <span>La Bohème</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+                        Giacomo Puccini
+                    </div>
+
+
+                            <div class="u-mt--auto u-hidden@phone u-block@desktop">                     <button type="button" class="button-link icon-container u-mt u-hidden-nojs js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-68284">mehr Infos<i class="icon" aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                        </i>
+                    </button>
+                </div>
+                <div
+                    id="mehr-infos-68284"
+                    class="termin__mehr-infos u-mt u-pb u-hidden o-flow"
+                    tabindex="-1"
+                >
+                                                <div class="termin__spieldauer">
+        Dauer: ca. 2:25 h inklusive einer Pause nach dem zweiten Bild
+    </div>
+
+
+
+
+
+
+    <div
+        class="besetzung flow"
+        id="besetzung-68284"            >
+        <h4>Besetzung</h4>
+        <ul class="besetzung__liste u-mt">
+
+
+                <!-- Leitung &amp; Technik -->
+
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Musikalische Leitung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/clelia-cafiero.3649/"><span>Clelia Cafiero</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Inszenierung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/lindy-hume.1207/"><span>Lindy Hume</span></a>                </div>
+                    </div>
+
+                                            </li>
+
+
+                <!-- Künstler -->
+
+                <li class="besetzung__item u-mt">
+                                                                            <span class="besetzung__rolle">Mimì:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/aleksandra-kurzak.1210/"><span>Aleksandra Kurzak</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Musetta:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/maria-kokareva.3270/"><span>Maria Kokareva</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Rodolfo:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/saimir-pirgu.2871/"><span>Saimir Pirgu</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Marcello:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/gyula-orendt.1017/"><span>Gyula Orendt</span></a>                </div>
+                    </div>
+
+                                            </li>
+                                    </ul>
+    </div>
+
+
+
+                    <div class="termin__weniger-infos-button u-mt">
+                        <button type="button" class="button-link icon-container js-termin-zeige-weniger-infos" aria-expanded="false" aria-controls="mehr-infos-68284">weniger Infos<i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 44 44"><path d="M24.3 43.9h-4.6l.1-34.8L5.4 23.5 2 20.2 21.9.1l20.1 20-3.4 3.3L24.3 9v34.9z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                </div>
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                    <div class="termin__ausverkauft">ausverkauft</div>
+
+
+                                    <div class="u-hidden@desktop">                         <button type="button" class="button-link icon-container u-hidden-nojs u-flex js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-68284">
+                            mehr Infos&nbsp;
+                            <i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="146844">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-20 21:00:00">
+                                                    <span>Sa.</span>
+                                <span>20.12.</span>
+                                    <span>21.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/nach-t-fuehrung.10795/#event-146844">
+                        <span>Nach(t)führung</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                            <div class="termin__ticket-button">
+                <a class="button " href="https://staatsoper-berlin.eventim-inhouse.de/webshop/webticket/shop?language=de&amp;event=19644">Tickets</a>
+            </div>
+                        <div class="termin__preisinformation">
+            <div class="dropdown">
+                                    <div>
+
+
+
+    <span style="text-align: end">&euro;&#8201;<span style="margin-inline-start: calc(var(--space-3xs-2xs) * -1);">
+            &#8203;  10</span>
+    </span>
+                    </div>
+                            </div>
+                    </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+                                                        </div>
+                                <div class="spielplan-day">
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="124714">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-21 11:00:00">
+                                                    <span>So.</span>
+                                <span>21.12.</span>
+                                    <span>11.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/haensel-und-gretel.22209/#event-124714">
+                        <span>Hänsel und Gretel</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+                        Familienkonzert Lindenbrass
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                            <div class="termin__ticket-button">
+                <a class="button " href="https://staatsoper-berlin.eventim-inhouse.de/webshop/webticket/shop?language=de&amp;event=19174">Tickets</a>
+            </div>
+                        <div class="termin__preisinformation">
+            <div class="dropdown">
+                                    <button class="button-link icon-container" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="--icon-gap: var(--space-xs);">
+
+
+
+    <span style="text-align: end">&euro;&#8201;<span style="margin-inline-start: calc(var(--space-3xs-2xs) * -1);">
+            &#8203;  20</span>
+    </span>
+                        <i aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                        </i>
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu--right@desktop-xl">
+                        <li class="theme-brand u-bgcolor-weiss"><a href="/de/spielplan/ticket/haensel-und-gretel.124714" shape="rect">Login</a>
+                                                            StaatsopernCard /                                                            Fest-Abonnement                                                    </li>
+                    </ul>
+                            </div>
+                            <div class="termin__zusaetzliche-preisinformation u-inline-block u-ml wysiwyg">
+                    <p>ermäßigt 15€</p>
+                </div>
+                    </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="150242">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-21 11:00:00">
+                                                    <span>So.</span>
+                                <span>21.12.</span>
+                                    <span>11.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/kulturhaus-centre-bagatelle.113/">Kulturhaus Centre Bagatelle</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/gastspiel-internationales-opernstudio.26779/#event-150242">
+                        <span>Gastspiel&nbsp;Internationales Opernstudio</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+                        Liedmatinee
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                            <div class="termin__buchungshinweis">
+            <div class="wysiwyg infotext theme-brand hyphenate">
+                                    <p>Tickets sind über den Veranstalter erhältlich<br /><a href="https://www.centre-bagatelle.de/kartenbestellung/?id=6202">Hier</a></p>
+                            </div>
+        </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                             js-termin-mit-mehr-infos
+                    " data-termin-id="123425">
+    <div class="termin  ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-21 18:00:00">
+                                                    <span>So.</span>
+                                <span>21.12.</span>
+                                    <span>18.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/wozzeck.9702/#event-123425">
+                        <span>Wozzeck</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+                        Oper in drei Akten von Alban Berg
+                    </div>
+
+
+                            <div class="u-mt--auto u-hidden@phone u-block@desktop">                     <button type="button" class="button-link icon-container u-mt u-hidden-nojs js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-123425">mehr Infos<i class="icon" aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                        </i>
+                    </button>
+                </div>
+                <div
+                    id="mehr-infos-123425"
+                    class="termin__mehr-infos u-mt u-pb u-hidden o-flow"
+                    tabindex="-1"
+                >
+                                                <div class="termin__spieldauer">
+        Dauer: ca. 1:40 h ohne Pause
+    </div>
+
+
+
+
+
+
+    <div
+        class="besetzung flow"
+        id="besetzung-123425"            >
+        <h4>Besetzung</h4>
+        <ul class="besetzung__liste u-mt">
+
+
+                <!-- Leitung &amp; Technik -->
+
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Musikalische Leitung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/christian-thielemann.3157/"><span>Christian Thielemann</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Inszenierung:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/andrea-breth.1058/"><span>Andrea Breth</span></a>                </div>
+                    </div>
+
+                                            </li>
+
+
+                <!-- Künstler -->
+
+                <li class="besetzung__item u-mt">
+                                                                            <span class="besetzung__rolle">Wozzeck:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/simon-keenlyside.3280/"><span>Simon Keenlyside</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Marie:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/anja-kampe.1505/"><span>Anja Kampe</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Tambourmajor:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/andreas-schager.1127/"><span>Andreas Schager</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Andres:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/florian-hoffmann.1034/"><span>Florian Hoffmann</span></a>                </div>
+                    </div>
+
+                                            </li>
+                <li class="besetzung__item">
+                                                                            <span class="besetzung__rolle">Hauptmann:</span>
+
+                                        <div class="besetzung__beteiligte-liste">
+                                            <div class="besetzung__beteiligte-liste-item"><a href="/de/kuenstler/wolfgang-ablinger-sperrhacke.2265/"><span>Wolfgang Ablinger-Sperrhacke</span></a>                </div>
+                    </div>
+
+                                            </li>
+                                    </ul>
+    </div>
+
+
+
+                    <div class="termin__weniger-infos-button u-mt">
+                        <button type="button" class="button-link icon-container js-termin-zeige-weniger-infos" aria-expanded="false" aria-controls="mehr-infos-123425">weniger Infos<i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 44 44"><path d="M24.3 43.9h-4.6l.1-34.8L5.4 23.5 2 20.2 21.9.1l20.1 20-3.4 3.3L24.3 9v34.9z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                </div>
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                            <div class="termin__ticket-button">
+                <a class="button " href="https://staatsoper-berlin.eventim-inhouse.de/webshop/webticket/shop?language=de&amp;event=19160">Tickets</a>
+            </div>
+                        <div class="termin__preisinformation">
+            <div class="dropdown">
+                                    <button class="button-link icon-container" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="--icon-gap: var(--space-xs);">
+
+
+
+
+
+
+
+
+
+
+    <span style="text-align: end">&euro;&#8201;<span style="margin-inline-start: calc(var(--space-3xs-2xs) * -1);">
+            &#8203;  115  100  80&#8203;  62  42  29&#8203;  15  11</span>
+    </span>
+                        <i aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                        </i>
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu--right@desktop-xl">
+                        <li class="theme-brand u-bgcolor-weiss"><a href="/de/spielplan/ticket/wozzeck.123425" shape="rect">Login</a>
+                                                            StaatsopernCard                                                    </li>
+                    </ul>
+                            </div>
+                    </div>
+
+
+                                    <div class="u-hidden@desktop">                         <button type="button" class="button-link icon-container u-hidden-nojs u-flex js-termin-zeige-mehr-infos" aria-expanded="false" aria-controls="mehr-infos-123425">
+                            mehr Infos&nbsp;
+                            <i class="icon" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 44 44" viewBox="0 0 44 44"><path d="M19.7.1h4.6l-.1 34.8 14.4-14.4 3.4 3.3-19.9 20.1L2 23.9l3.4-3.3L19.7 35V.1z"/></svg>
+
+                            </i>
+                        </button>
+                    </div>
+                                                </div>
+            </div>
+</article>
+
+
+
+
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="146845">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-21 20:10:00">
+                                                    <span>So.</span>
+                                <span>21.12.</span>
+                                    <span>20.10</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/staatsoper-unter-den-linden.35/">Staatsoper Unter den Linden</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/nach-t-fuehrung.10795/#event-146845">
+                        <span>Nach(t)führung</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                            <div class="termin__ticket-button">
+                <a class="button " href="https://staatsoper-berlin.eventim-inhouse.de/webshop/webticket/shop?language=de&amp;event=19647">Tickets</a>
+            </div>
+                        <div class="termin__preisinformation">
+            <div class="dropdown">
+                                    <div>
+
+
+
+    <span style="text-align: end">&euro;&#8201;<span style="margin-inline-start: calc(var(--space-3xs-2xs) * -1);">
+            &#8203;  10</span>
+    </span>
+                    </div>
+                            </div>
+                    </div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+
+                                                        </div>
+                                <div class="spielplan-day">
+
+
+
+
+<article class="termin-list__item | js-termin                     " data-termin-id="124816">
+    <div class="termin termin--smallTitle ">
+
+        <div class="termin__meta">
+                        <time datetime="2025-12-22 18:00:00">
+                                                    <span>Mo.</span>
+                                <span>22.12.</span>
+                                    <span>18.00</span>
+                            </time>
+
+                            <div class="termin__spielstaette">
+                    <a href="/de/ihr-besuch/anfahrt/apollosaal.40/">Apollosaal</a>
+                </div>
+                    </div>
+
+        <div class="termin__details">
+
+
+
+
+                            <h3 class="termin__title hyphenate">
+                                                            <a href="/de/veranstaltungen/weihnachtskonzert-kinderchor-der-staatsoper.22259/#event-124816">
+                        <span>Weihnachtskonzert Kinderchor der Staatsoper</span>
+                    </a>
+                </h3>
+
+                                                            <div class="termin__werkinfo">
+
+                    </div>
+
+
+                            </div>
+
+                    <div class="termin__ticket-infos">
+
+
+                                    <div class="termin__ausverkauft">ausverkauft</div>
+
+
+                                                </div>
+            </div>
+</article>
+
+
+                </div>
+
+            <div class="js-pagination">
+            <a href="/de/spielplan/23-12-2025/"
+               id="next-link" class="u-hidden-js"
+               data-pagination-fragment-url="/de/spielplan/_f/23-12-2025">
+                Next
+            </a>
+        </div>
+
+
+<span class="u-visually-hidden"><!-- _spielplan_fragment: { startDatum: 2025-12-16, filterId: null, locale: de } --></span>

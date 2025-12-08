@@ -25,14 +25,18 @@ data class StaatsOperBerlinEventDto(
     val title: String,
     val detailUrl: String,
     val workInfo: String?,
-    val tags: List<String> = emptyList(),        // e.g., "Zum letzten Mal in dieser Spielzeit"
-    val bookingNote: String?,                   // e.g., "Nur für Gäste der Abendvorstellung buchbar"
-    val duration: String?,                      // e.g., "Dauer: ca. 2:15 h inklusive einer Pause"
+    val tags: List<String> = emptyList(),
+    val bookingNote: String?,
+    val duration: String?,
     val ticketUrl: String?,
-    val priceText: String?,                     // compact price string, as shown
+    val priceText: String?,
     val performers: List<StaatsOperBerlinPerformerDto> = emptyList(),
-    val program: List<StaatsOperBerlinProgramItemDto> = emptyList(),
-)
+    val program: List<StaatsOperBerlinProgramItemDto> = emptyList()
+) {
+    override fun toString(): String {
+        return "Event: $title - $dateTime"
+    }
+}
 
 data class StaatsOperBerlinPerformerDto(
     val role: String?,

@@ -5,19 +5,32 @@ import com.classic.event.service.StaatsOperBerlinEventService
 import java.time.LocalDate
 import org.springframework.format.annotation.DateTimeFormat
 import org.springframework.http.ResponseEntity
-import org.springframework.web.bind.annotation.GetMapping
-import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController
 
 @RestController
-@RequestMapping("/events")
 class StaatsOperBerlinEventController(
-    private val eventService: StaatsOperBerlinEventService,
+    private val eventService: StaatsOperBerlinEventService
 ) {
-    @GetMapping("/staatsoper")
     fun fetchEvents(
-        @RequestParam("date") @DateTimeFormat(iso = DateTimeFormat.ISO.DATE) date: LocalDate,
-    ): ResponseEntity<StaatsOperBerlinEventResponseDto> =
-        ResponseEntity.ok(eventService.fetchSchedule(date))
+        @RequestParam("date") @DateTimeFormat(iso = DateTimeFormat.ISO.DATE) date: LocalDate
+    ): ResponseEntity<StaatsOperBerlinEventResponseDto> {
+        val response = ResponseEntity.ok(eventService.fetchSchedule(date))
+        val body = response.body
+
+        println("dddddddd")
+//        println(body)
+//
+//        body?.days?.forEach { x->
+//            x.events.forEach { y ->
+//                File("dataBase.txt").appendText( y.toString() + "\n")}
+//        }
+
+        val nextPage = response.body?.nextPageUrl
+//        if (nextPage != null ) {
+//            fetchEvents(LocalDate.parse(nextPage))
+//
+//        }
+        return response
+    }
 }

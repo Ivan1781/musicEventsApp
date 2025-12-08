@@ -17,7 +17,5 @@ event:
       category: ""
       location: ""
       status_type: ""
-  staatsoper:
+  staatsoper-berlin:
     url: https://www.staatsoper-berlin.de/de/spielplan/_f/%s
-  staats-oper-berlin:
-    url: https://www.staatsoper-berlin.de/de/

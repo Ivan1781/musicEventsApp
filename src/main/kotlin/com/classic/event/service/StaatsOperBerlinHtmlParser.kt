@@ -5,7 +5,6 @@ import com.classic.event.dto.StaatsOperBerlinEventDto
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
 import com.classic.event.dto.StaatsOperBerlinPerformerDto
 import com.classic.event.dto.StaatsOperBerlinProgramItemDto
-import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import org.jsoup.Jsoup
@@ -19,14 +18,17 @@ class StaatsOperBerlinHtmlParser {
     fun parse(html: String): StaatsOperBerlinEventResponseDto {
         val document = Jsoup.parse(html)
         val monthTitle = document.selectFirst("div.spielplan-month-title h2")?.text()?.trim().orEmpty()
-        val nextLink = document.selectFirst(".js-pagination #next-link")?.attr("data-pagination-fragment-url")?.takeIf { it.isNotBlank() }
+        val date = document.selectFirst(".js-pagination #next-link")?.attr("data-pagination-fragment-url")?.takeIf { it.isNotBlank() }
+
+        val regex = Regex("\\d{2}-\\d{2}-\\d{4}")
+        val nextDate = regex.find(date.toString())?.value
 
         val days = document.select("div.spielplan-day").mapNotNull { parseDay(it) }
 
         return StaatsOperBerlinEventResponseDto(
             monthTitle = monthTitle,
             days = days,
-            nextPageUrl = nextLink,
+            nextPageUrl = nextDate
         )
     }
 

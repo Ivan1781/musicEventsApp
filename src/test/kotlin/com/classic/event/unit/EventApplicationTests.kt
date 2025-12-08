@@ -1,20 +1,26 @@
-package com.classic.event
+package com.classic.event.unit
 
 import com.classic.event.controller.DeutscheOperBerlinEventController
 import com.classic.event.controller.StaatsOperBerlinEventController
 import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
-import com.classic.event.dto.StaatsOperBerlinEventDto
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
+import com.classic.event.service.RemoteSiteService
+import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
+import org.springframework.core.ParameterizedTypeReference
 import org.springframework.http.ResponseEntity
+import org.springframework.test.context.bean.override.mockito.MockitoBean
+import org.mockito.kotlin.any
+import org.mockito.kotlin.whenever
+import testUtils.getElements
+import utils.loadFile
+
 import java.time.LocalDate
 import java.time.LocalDateTime
-import java.time.Month
 import java.time.format.DateTimeFormatter
 import kotlin.test.assertTrue
-
 
 @SpringBootTest(
     properties = [
@@ -24,6 +30,9 @@ import kotlin.test.assertTrue
     ]
 )
 class EventApplicationTests {
+
+    @MockitoBean
+    private lateinit var remoteSiteService: RemoteSiteService
 
     @Autowired
     private lateinit var deutscheOperBerlineventController: DeutscheOperBerlinEventController
@@ -42,12 +51,33 @@ class EventApplicationTests {
 	}
 
     @Test
-    fun requestStaatsOperBerlinEvent() {
+    fun `request StaatsOperBerlinEvent`() {
+        val date = LocalDate.of(LocalDate.now().year, LocalDate.now().month, 1)
+        val responseMock = loadFile("mock/berlinStaatsOper.txt")
+
+        whenever(
+            remoteSiteService.fetch(
+                any(),
+                any(),
+                any(),
+                any<ParameterizedTypeReference<String>>()
+            )
+        ).thenReturn(responseMock)
+
         val response: ResponseEntity<StaatsOperBerlinEventResponseDto> = staatsOperBerlinEventController
             .fetchEvents(
-                LocalDate.of(LocalDate.now().year, LocalDate.now().month , 1)
+                date
             )
-        println()
 
+        val events = getElements("article", responseMock)
+        assertThat(events.size).isEqualTo(getEvents(response))
     }
+
+    private fun getEvents(response: ResponseEntity<StaatsOperBerlinEventResponseDto>): Int {
+        return response.body
+            ?.days
+            ?.sumOf { it.events.size }
+            ?: 0
+    }
+
 }
