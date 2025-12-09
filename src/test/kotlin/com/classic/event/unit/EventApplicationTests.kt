@@ -4,6 +4,7 @@ import com.classic.event.controller.DeutscheOperBerlinEventController
 import com.classic.event.controller.StaatsOperBerlinEventController
 import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
+import com.classic.event.dto.toEvents
 import com.classic.event.service.RemoteSiteService
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
@@ -15,7 +16,9 @@ import org.springframework.test.context.bean.override.mockito.MockitoBean
 import org.mockito.kotlin.any
 import org.mockito.kotlin.whenever
 import testUtils.getElements
+import utils.getResource
 import utils.loadFile
+import java.io.File
 
 import java.time.LocalDate
 import java.time.LocalDateTime
@@ -51,7 +54,7 @@ class EventApplicationTests {
 	}
 
     @Test
-    fun `request StaatsOperBerlinEvent`() {
+    fun `parsing staatsoper berlin response verification`() {
         val date = LocalDate.of(LocalDate.now().year, LocalDate.now().month, 1)
         val responseMock = loadFile("mock/berlinStaatsOper.txt")
 
@@ -69,6 +72,41 @@ class EventApplicationTests {
                 date
             )
 
+        val body = response.body!!
+
+        body.days.forEach { x->
+            x.events.forEach { y ->
+                File(getResource("dataBase.txt").file).appendText( y.toString() + "\n")}
+        }
+
+        val events = getElements("article", responseMock)
+        assertThat(events.size).isEqualTo(getEvents(response))
+    }
+
+    @Test
+    fun `transformation to event of staatsoper berlin response verification`() {
+        val date = LocalDate.of(LocalDate.now().year, LocalDate.now().month, 1)
+        val responseMock = loadFile("mock/berlinStaatsOper.txt")
+
+        whenever(
+            remoteSiteService.fetch(
+                any(),
+                any(),
+                any(),
+                any<ParameterizedTypeReference<String>>()
+            )
+        ).thenReturn(responseMock)
+
+        val response: ResponseEntity<StaatsOperBerlinEventResponseDto> = staatsOperBerlinEventController
+            .fetchEvents(
+                date
+            )
+
+        val body = response.body!!
+        body.toEvents().forEach {
+                File(getResource("dataBase.txt").file).appendText( it.toString() + "\n")
+        }
+
         val events = getElements("article", responseMock)
         assertThat(events.size).isEqualTo(getEvents(response))
     }
@@ -79,5 +117,4 @@ class EventApplicationTests {
             ?.sumOf { it.events.size }
             ?: 0
     }
-
 }

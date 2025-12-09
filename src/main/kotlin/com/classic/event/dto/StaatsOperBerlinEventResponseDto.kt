@@ -2,6 +2,7 @@ package com.classic.event.dto
 
 import java.time.LocalDate
 import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
 
 data class StaatsOperBerlinEventResponseDto(
     val monthTitle: String,
@@ -15,36 +16,26 @@ data class StaatsOperBerlinDayDto(
 )
 
 data class StaatsOperBerlinEventDto(
-    val id: Long,
     val dateTime: LocalDateTime,
-    val weekdayLabel: String?,
-    val dateLabel: String?,
-    val timeLabel: String?,
     val venueName: String?,
-    val venueUrl: String?,
     val title: String,
     val detailUrl: String,
     val workInfo: String?,
-    val tags: List<String> = emptyList(),
-    val bookingNote: String?,
     val duration: String?,
     val ticketUrl: String?,
-    val priceText: String?,
-    val performers: List<StaatsOperBerlinPerformerDto> = emptyList(),
-    val program: List<StaatsOperBerlinProgramItemDto> = emptyList()
+    val priceText: String?
 ) {
-    override fun toString(): String {
-        return "Event: $title - $dateTime"
-    }
+    fun toEvent(): Event =
+        Event(
+            title = title,
+            detailUrl = detailUrl,
+            dateTime = dateTime.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME),
+            duration = duration,
+            location = venueName,
+            price = priceText,
+            ticketUrl = ticketUrl
+        )
 }
 
-data class StaatsOperBerlinPerformerDto(
-    val role: String?,
-    val name: String,
-    val profileUrl: String?
-)
-
-data class StaatsOperBerlinProgramItemDto(
-    val artist: String?,
-    val piece: String?
-)
+fun StaatsOperBerlinEventResponseDto.toEvents(): List<Event> =
+    days.flatMap { day -> day.events.map { it.toEvent() } }
