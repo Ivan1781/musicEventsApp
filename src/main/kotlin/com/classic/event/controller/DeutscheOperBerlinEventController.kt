@@ -1,6 +1,6 @@
 package com.classic.event.controller
 
-import com.classic.event.config.DeutscheOperBerlinProperties
+import properties.DeutscheOperBerlinProperties
 import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
 import com.classic.event.service.RemoteSiteService
 import org.springframework.core.ParameterizedTypeReference

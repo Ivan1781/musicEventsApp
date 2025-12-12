@@ -25,8 +25,8 @@ data class StaatsOperBerlinEventDto(
     val ticketUrl: String?,
     val priceText: String?
 ) {
-    fun toEvent(): Event =
-        Event(
+    fun toEvent(): EventDto =
+        EventDto(
             title = title,
             detailUrl = detailUrl,
             dateTime = dateTime.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME),
@@ -37,5 +37,5 @@ data class StaatsOperBerlinEventDto(
         )
 }
 
-fun StaatsOperBerlinEventResponseDto.toEvents(): List<Event> =
+fun StaatsOperBerlinEventResponseDto.toEvents(): List<EventDto> =
     days.flatMap { day -> day.events.map { it.toEvent() } }

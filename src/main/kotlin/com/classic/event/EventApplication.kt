@@ -1,7 +1,7 @@
 package com.classic.event
 
-import com.classic.event.config.DeutscheOperBerlinProperties
-import com.classic.event.config.StaatsOperBerlinProperties
+import properties.DeutscheOperBerlinProperties
+import properties.StaatsOperBerlinProperties
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.boot.runApplication

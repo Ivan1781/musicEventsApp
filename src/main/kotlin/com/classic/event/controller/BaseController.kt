@@ -1,6 +1,6 @@
 package com.classic.event.controller
 
-import com.classic.event.dto.BaseProperties
+import properties.BaseProperties
 import com.classic.event.service.RemoteSiteService
 import org.springframework.core.ParameterizedTypeReference
 

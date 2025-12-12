@@ -1,6 +1,26 @@
 spring:
   application:
     name: event
+  datasource:
+    url: jdbc:postgresql://localhost:5432/eventdb
+    username: eventuser
+    password: change_me
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 2
+      connection-timeout: 30000
+      idle-timeout: 600000
+      max-lifetime: 1800000
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        jdbc:
+          time_zone: UTC
 
 logging:
   level:

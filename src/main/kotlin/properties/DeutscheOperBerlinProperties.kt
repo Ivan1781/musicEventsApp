@@ -1,6 +1,5 @@
-package com.classic.event.config
+package properties
 
-import com.classic.event.dto.BaseProperties
 import org.springframework.boot.context.properties.ConfigurationProperties
 
 @ConfigurationProperties("event.deutsche-oper-berlin")

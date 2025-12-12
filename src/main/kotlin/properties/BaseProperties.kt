@@ -1,4 +1,4 @@
-package com.classic.event.dto
+package properties
 
 interface BaseProperties {
     val url: String

@@ -4,8 +4,8 @@ import com.classic.event.controller.DeutscheOperBerlinEventController
 import com.classic.event.controller.StaatsOperBerlinEventController
 import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
-import com.classic.event.dto.toEvents
 import com.classic.event.service.RemoteSiteService
+import com.classic.event.service.StaatsOperBerlinEventService
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
@@ -25,13 +25,7 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import kotlin.test.assertTrue
 
-@SpringBootTest(
-    properties = [
-        "spring.autoconfigure.exclude=" +
-            "org.springframework.boot.jdbc.autoconfigure.DataSourceAutoConfiguration," +
-            "org.springframework.boot.hibernate.autoconfigure.HibernateJpaAutoConfiguration"
-    ]
-)
+@SpringBootTest
 class EventApplicationTests {
 
     @MockitoBean
@@ -42,6 +36,9 @@ class EventApplicationTests {
 
     @Autowired
     private lateinit var staatsOperBerlinEventController: StaatsOperBerlinEventController
+
+    @Autowired
+    private lateinit var staatsOperBerlinEventService: StaatsOperBerlinEventService
 
 	@Test
 	fun requestDeutscheOperBerlinEvent() {
@@ -55,7 +52,6 @@ class EventApplicationTests {
 
     @Test
     fun `parsing staatsoper berlin response verification`() {
-        val date = LocalDate.of(LocalDate.now().year, LocalDate.now().month, 1)
         val responseMock = loadFile("mock/berlinStaatsOper.txt")
 
         whenever(
@@ -68,9 +64,7 @@ class EventApplicationTests {
         ).thenReturn(responseMock)
 
         val response: ResponseEntity<StaatsOperBerlinEventResponseDto> = staatsOperBerlinEventController
-            .fetchEvents(
-                date
-            )
+            .fetchEvents(LocalDate.now().withDayOfMonth(1))
 
         val body = response.body!!
 
@@ -98,13 +92,11 @@ class EventApplicationTests {
         ).thenReturn(responseMock)
 
         val response: ResponseEntity<StaatsOperBerlinEventResponseDto> = staatsOperBerlinEventController
-            .fetchEvents(
-                date
-            )
+            .fetchEvents(LocalDate.now().withDayOfMonth(1))
 
         val body = response.body!!
-        body.toEvents().forEach {
-                File(getResource("dataBase.txt").file).appendText( it.toString() + "\n")
+        staatsOperBerlinEventService.mapToEvents(body).forEach {
+            File(getResource("dataBase.txt").file).appendText(it.toString() + "\n")
         }
 
         val events = getElements("article", responseMock)

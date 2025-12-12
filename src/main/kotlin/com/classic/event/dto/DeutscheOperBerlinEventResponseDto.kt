@@ -62,11 +62,11 @@ data class DeutscheOperBerlinEventResponseDto(
     @field:JsonSetter(nulls = Nulls.AS_EMPTY)
     val events: List<EventOverviewDto> = emptyList()
 ) {
-    fun toEvents(): List<Event> = events.map { it.toEvent() }
+    fun toEvents(): List<EventDto> = events.map { it.toEvent() }
 }
 
-fun EventOverviewDto.toEvent(): Event =
-    Event(
+fun EventOverviewDto.toEvent(): EventDto =
+    EventDto(
         title = title,
         detailUrl = detailLink,
         dateTime = dateTimeForOverview,
