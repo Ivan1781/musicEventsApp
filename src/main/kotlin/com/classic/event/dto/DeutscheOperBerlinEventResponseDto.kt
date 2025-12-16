@@ -1,8 +1,15 @@
 package com.classic.event.dto
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.annotation.JsonSetter
 import com.fasterxml.jackson.annotation.Nulls
+import constants.DatePattern.DATE_DOT_DMY
+import constants.DatePattern.HOUR_MINUTE
+import constants.DefaultCities
+import java.time.LocalDate
+import java.time.LocalDateTime
+import java.time.LocalTime
 
 data class CountDto(
     @field:JsonProperty("All")
@@ -11,6 +18,7 @@ data class CountDto(
     val date: Int? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class PagerDto(
     @field:JsonProperty("NbResults")
     val nbResults: Int? = null,
@@ -24,11 +32,12 @@ data class PagerDto(
     val isLastPage: Boolean? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class EventOverviewDto(
     @field:JsonProperty("DetailLink")
     val detailLink: String? = null,
     @field:JsonProperty("DateTime4Overview")
-    val dateTimeForOverview: String? = null,
+    val dateTimeForOverview: String,
     @field:JsonProperty("Title")
     val title: String? = null,
     @field:JsonProperty("ContentCategory")
@@ -53,6 +62,7 @@ data class EventOverviewDto(
     val ageIndication: String? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class DeutscheOperBerlinEventResponseDto(
     @field:JsonProperty("Count")
     val count: CountDto? = null,
@@ -68,10 +78,25 @@ data class DeutscheOperBerlinEventResponseDto(
 fun EventOverviewDto.toEvent(): EventDto =
     EventDto(
         title = title,
+        city = city?.trim()?.takeIf { it.isNotEmpty() } ?: DefaultCities.BERLIN,
         detailUrl = detailLink,
-        dateTime = dateTimeForOverview,
+        dateTime = transformDate(dateTimeForOverview).toString(),
         duration = duration?.toString(),
         location = location,
         price = priceValueMinMax,
         ticketUrl = priceUrl
     )
+
+private fun transformDate(input: String): LocalDateTime {
+    val (datePart, timePart) = input
+        .substringAfter(" ")
+        .split(" - ")
+        .map(String::trim)
+        .also { require(it.size == 2) { "Expected date and time separated by ' - '" } }
+        .let { it[0] to it[1] }
+
+    val date = LocalDate.parse(datePart, DATE_DOT_DMY)
+    val time = LocalTime.parse(timePart, HOUR_MINUTE)
+
+    return LocalDateTime.of(date, time.withSecond(0))
+}

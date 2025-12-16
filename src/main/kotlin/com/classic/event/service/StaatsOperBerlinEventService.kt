@@ -3,9 +3,9 @@ package com.classic.event.service
 import com.classic.event.entity.EventEntity
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
 import com.classic.event.dto.StaatsOperBerlinEventDto
+import constants.DatePattern.DATE_DASH_DMY
 import properties.StaatsOperBerlinProperties
 import java.time.LocalDate
-import java.time.format.DateTimeFormatter
 import java.util.Locale
 import org.springframework.core.ParameterizedTypeReference
 import org.springframework.stereotype.Service
@@ -16,12 +16,11 @@ class StaatsOperBerlinEventService(
     private val properties: StaatsOperBerlinProperties,
     private val parser: StaatsOperBerlinHtmlParser
 ) {
-    private val dateFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy")
     private val siteBaseUrl =
         properties.url.substringBefore("/de/spielplan").ifBlank { "https://www.staatsoper-berlin.de" }
 
     fun fetchSchedule(date: LocalDate): StaatsOperBerlinEventResponseDto {
-        val formattedDate = date.format(dateFormatter)
+        val formattedDate = date.format(DATE_DASH_DMY)
         val targetUrl = properties.url.format(formattedDate)
         val html =
             remoteSiteService.fetch(
@@ -46,6 +45,7 @@ class StaatsOperBerlinEventService(
 
         return EventEntity(
             title = normalizedTitle,
+            city = "Berlin",
             detailUrl = normalizedDetailUrl,
             dateTime = dto.dateTime,
             duration = dto.duration?.clean(),

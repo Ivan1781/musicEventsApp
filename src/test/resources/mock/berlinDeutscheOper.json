@@ -1,0 +1,1983 @@
+{
+  "Count": {
+    "All": 350,
+    "Date": 262
+  },
+  "Pager": {
+    "NbResults": 262,
+    "FirstIndex": 1,
+    "LastIndex": 20,
+    "IsFirstPage": true,
+    "IsLastPage": false,
+    "Links": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "EventOverview": [
+    {
+      "IdEventDate": 17862478,
+      "IdEventCluster": 1377421,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/kinder-tanzen-der-nussknacker.17862478",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-06 11:00:00",
+      "DateTo": "2025-12-27 11:00:00",
+      "DateTime4Overview": "Sa. 13.12.2025 - 11:00",
+      "DateTime": "13. Dezember 2025 | 11:00",
+      "DateFromTo": "06.12.2025 - 27.12.2025",
+      "Title": "Kinder tanzen \u2013 Der Nussknacker",
+      "ContentCategory": "Ballett",
+      "FormalCategory": "Kinder \/ Jugend",
+      "isToday": "isToday",
+      "DateDay": "13",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Samstag",
+      "Duration": 3600,
+      "DurationTime": "01:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "nichtclassiccard;Repertoire-25\/26; dob_Kinderkalender; judo; nicht_mitarbeiterformular; nicht_gruppenformular; nicht_mitwirkendenformular",
+      "Status": "Familienvorstellung",
+      "Description": "Es ist Weihnachtsabend. Nach der Bescherung und den wundersch\u00f6nen Feierlichkeiten f\u00e4llt die kleine Klara im Weihnachtszimmer in einen tiefen Schlaf. Sie tr\u00e4umt von einer fantastischen Reise in das m\u00e4rchenhafte Zuckerland, auf der sie vom Nussknacker, ihrem sch\u00f6nsten Geschenk, begleitet wird.\n\nGenauso wie Pjotr I. Tschaikowskijs ber\u00fchmte Ballettmusik greift auch die Inszenierung der \u201eKinder Ballett Kompagnie Berlin\u201c wesentliche Motive aus E. T. A. Hoffmanns M\u00e4rchen \u201eNussknacker und Mausek\u00f6nig\u201c auf: Bevor die Reise des kleinen M\u00e4dchens losgeht, kommt es zum Kampf zwischen M\u00e4usen und Spielzeugsoldaten. Als der Nussknacker schlie\u00dflich zum lebensgro\u00dfen Prinzen wird und Klara in das Land ihrer Tr\u00e4ume begleitet, erlebt das M\u00e4dchen, wie es ist, gro\u00df zu werden und dass Tr\u00e4ume sich erf\u00fcllen k\u00f6nnen, wenn man sie nur ernst genug nimmt. Und schlie\u00dflich gibt es ein gro\u00dfes Fest \u2026\n\nDie Inszenierung von David Simic verspricht eine herrliche Einstimmung auf die Weihnachtszeit. Pjotr I. Tschaikowskijs ber\u00fchmte Musik ist f\u00fcr viele unmittelbar mit dem Weihnachtserlebnis verbunden und entf\u00fchrt in eine nostalgische Welt, in der tanzende Schneeflocken, ein Weihnachtsbaum und die Freude an einem ganz besonderen Gef\u00fchl zu traumgleichem Ausdruck kommen.\n\nEs tanzen die Sch\u00fclerinnen und Sch\u00fcler der Kinder Ballett Kompanie Berlin. Die Auff\u00fchrung richtet sich an Kinder und ihre Eltern. \n",
+      "OpusInfo": "Musik vom Tonband",
+      "OpusInfoShort": "Ballett f\u00fcr Kinder ab 4 Jahren mit Musik von Pjotr I. Tschaikowskij",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11878&language=de",
+      "PriceValueMinMax": "\u20ac 25,00 \/ erm\u00e4\u00dfigt \u20ac 10,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/c\/2\/5\/6\/a\/pic_1558703063_c256ae7c10666b5e58bb9d838be09952.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F2%2F5%2F6%2Fa%2Fpic_1558703063_c256ae7c10666b5e58bb9d838be09952.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F1%2F9%2Fb%2F2%2Fpic_1558703035_319b2a6ce4dd11438f489c40371b5d04.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F0%2F1%2F5%2F8%2Fpic_1558703040_801583f01d2e73a0f8459646543aac60.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F2%2F8%2Ff%2F7%2Fa%2Fpic_1558703045_28f7ac506146fca660e2cff026df4ebf.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2F2%2F6%2F5%2F4%2Fpic_1558703056_02654fd15358840f5e6636d336b3cbe9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F7%2F0%2Ff%2F9%2Fpic_1558703060_570f9dfa182259b2204b48903b18e490.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F3%2F2%2F1%2Fd%2Fpic_1558703067_8321dfcc4280db07eacb3f8f9a6cbd6e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fa%2F0%2Fc%2F4%2Fpic_1558703071_ea0c477cd0c2fd2fca9c7b4d25a9f9c0.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F5%2F4%2Ff%2F0%2Fpic_1558703074_154f05f10d71af10b6d3f2152b4c3e1e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2Fd%2Fa%2F8%2F0%2Fpic_1558703085_ada803cafd707226a7a037439c20ad91.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F8%2F9%2Fb%2F8%2Fpic_1558703089_689b8674d08392263c23350900443abb.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F2%2Ff%2F4%2F1%2Fpic_1558703093_82f41a1025c68fe0374d841dcffc8122.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F9%2F0%2Ff%2Fa%2Fpic_1558703097_590facad85c24e58691daf771c3b42b5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Ff%2F6%2F2%2Fc%2Fpic_1558703101_3f62ce7d7d1a0e6bc7ab39a8670b021c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2F0%2F6%2F8%2F8%2Fpic_1558703107_00688d83f5421497532f2172c3a1b313.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Kinder tanzen: Der Nussknacker",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 4 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17896166,
+      "IdEventCluster": 1382655,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/fuehrung.17896166",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-06 13:00:00",
+      "DateTo": "2026-07-12 13:00:00",
+      "DateTime4Overview": "Sa. 13.12.2025 - 14:00",
+      "DateTime": "13. Dezember 2025 | 14:00",
+      "DateFromTo": "06.12.2025 - 12.07.2026",
+      "Title": "F\u00fchrung",
+      "ContentCategory": "Guided Tour",
+      "FormalCategory": "Special",
+      "isToday": "isToday",
+      "DateDay": "13",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Samstag",
+      "Duration": 5400,
+      "DurationTime": "01:30 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "kalenderrechts; nichtclassiccard; nogrossersaal; nicht_mitarbeiterformular; nicht_gruppenformular; nostarter; nicht_mitwirkendenformular",
+      "Status": null,
+      "Description": "Unsere F\u00fchrungen durch das Zuschauerhaus und \u00fcber die B\u00fchnen sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin vermitteln Ihnen spannende Eindr\u00fccke und Wissenswertes \u00fcber die Deutsche Oper Berlin und den Alltag hinter den Kulissen. Welches architektonische Konzept verbirgt sich hinter der langen Waschbeton-Fassade an der Bismarckstra\u00dfe? Wie entsteht ein B\u00fchnenbild? Wie laufen Proben ab? Erfahren Sie au\u00dferdem Details zur bewegten Geschichte des Hauses, das heute mit seinen modernen Neuinszenierungen und den fr\u00fchen Repertoiresch\u00e4tzen einen Querschnitt durch \u00fcber 40 Jahre Inszenierungs- und Auff\u00fchrungspraxis zu bieten hat.",
+      "OpusInfo": "durch den Besucherbereich und \u00fcber die B\u00fchnen, sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin.",
+      "OpusInfoShort": "Treffpunkt: Kassenhalle",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11926&language=de",
+      "PriceValueMinMax": "10,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/b\/d\/b\/a\/pic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fb%2Fd%2Fb%2Fa%2Fpic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F9%2F7%2F7%2F3%2Fpic_1632754628_b9773200e534f09d0706be03200ae4e9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2F9%2F3%2F1%2Fpic_1632754830_d0931abad93f9a78ba05f9a4e22c9eb1.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F9%2Fd%2Fb%2Ff%2Ff%2Fpic_1632754632_9dbffcfb21263f85de8b19e841debffa.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F4%2F5%2F8%2Fpic_1632754636_d6458ad7abc01c2589c6a53e80afd303.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fc%2F0%2F9%2Fc%2Fpic_1632754834_4c09c58f2b6db41cd70810991160b9f8.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2Fe%2F5%2Fb%2Fpic_1632754639_d0e5b8a9a875b3ff417fffec749a8985.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F6%2F4%2F0%2F0%2Fpic_1632754826_f64002ab55d7ed07d9a929d91f3f4459.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F7%2Ff%2Fd%2F5%2Fpic_1632754643_b7fd5153f017d5294f97193544b879c0.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Backstage-F\u00fchrung",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "right",
+      "HideLocation": false,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 10 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17896211,
+      "IdEventCluster": 1382656,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/familienfuehrung.17896211",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-11-29 14:30:00",
+      "DateTo": "2026-07-12 14:30:00",
+      "DateTime4Overview": "Sa. 13.12.2025 - 15:30",
+      "DateTime": "13. Dezember 2025 | 15:30",
+      "DateFromTo": "29.11.2025 - 12.07.2026",
+      "Title": "Familienf\u00fchrung",
+      "ContentCategory": "F\u00fchrung",
+      "FormalCategory": "Special",
+      "isToday": "isToday",
+      "DateDay": "13",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Samstag",
+      "Duration": 3600,
+      "DurationTime": "01:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "kalenderrechts; nichtclassiccard; nogrossersaal; nicht_mitarbeiterformular; nicht_gruppenformular; judo; nostarter; nicht_mitwirkendenformular",
+      "Status": "Familienvorstellung",
+      "Description": "Unsere F\u00fchrungen durch das Zuschauerhaus und \u00fcber die B\u00fchnen sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin vermitteln Ihnen spannende Eindr\u00fccke und Wissenswertes \u00fcber die Deutsche Oper Berlin und den Alltag hinter den Kulissen. Welches architektonische Konzept verbirgt sich hinter der langen Waschbeton-Fassade an der Bismarckstra\u00dfe? Wie entsteht ein B\u00fchnenbild? Wie laufen Proben ab? Erfahren Sie au\u00dferdem Details zur bewegten Geschichte des Hauses, das heute mit seinen modernen Neuinszenierungen und den fr\u00fchen Repertoiresch\u00e4tzen einen Querschnitt durch \u00fcber 40 Jahre Inszenierungs- und Auff\u00fchrungspraxis zu bieten hat.",
+      "OpusInfo": "durch den Besucherbereich und \u00fcber die B\u00fchnen, sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin.",
+      "OpusInfoShort": "Treffpunkt: Kassenhalle",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11990&language=de",
+      "PriceValueMinMax": "5,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/b\/d\/b\/a\/pic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fb%2Fd%2Fb%2Fa%2Fpic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F9%2F7%2F7%2F3%2Fpic_1632754628_b9773200e534f09d0706be03200ae4e9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2F9%2F3%2F1%2Fpic_1632754830_d0931abad93f9a78ba05f9a4e22c9eb1.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F9%2Fd%2Fb%2Ff%2Ff%2Fpic_1632754632_9dbffcfb21263f85de8b19e841debffa.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F4%2F5%2F8%2Fpic_1632754636_d6458ad7abc01c2589c6a53e80afd303.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fc%2F0%2F9%2Fc%2Fpic_1632754834_4c09c58f2b6db41cd70810991160b9f8.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2Fe%2F5%2Fb%2Fpic_1632754639_d0e5b8a9a875b3ff417fffec749a8985.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F6%2F4%2F0%2F0%2Fpic_1632754826_f64002ab55d7ed07d9a929d91f3f4459.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F7%2Ff%2Fd%2F5%2Fpic_1632754643_b7fd5153f017d5294f97193544b879c0.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Backstage-F\u00fchrung",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "right",
+      "HideLocation": false,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 6 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17822990,
+      "IdEventCluster": 1369978,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/andrea-chenier.17822990",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-08 18:00:00",
+      "DateTo": "2025-12-18 19:30:00",
+      "DateTime4Overview": "Sa. 13.12.2025 - 19:00",
+      "DateTime": "13. Dezember 2025 | 19:00",
+      "DateFromTo": "08.12.2025 - 18.12.2025",
+      "Title": "Andrea Chenier",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Oper",
+      "isToday": "isToday",
+      "DateDay": "13",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Samstag",
+      "Duration": 9000,
+      "DurationTime": "02:30 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "andrea; Repertoire-25\/26; ",
+      "Status": "Repertoire",
+      "Description": "Sommer 1789. Im Schloss der Contessa di Coigny wird ein Fest vorbereitet. Carlo G\u00e9rard, Diener im Hause der Contessa, schreit seinen Hass auf die Dekadenz der franz\u00f6sischen Aristokratie heraus. Sein alter Vater muss von fr\u00fch bis sp\u00e4t schuften, er selbst, der mit der Tochter des Hauses, Maddalena di Coigny, aufgewachsen ist und sie heimlich, aber aussichtslos liebt, f\u00fchrt ein w\u00fcrdeloses Dasein als Lakai. Die politische Lage ist angespannt. Doch als die Ballgesellschaft schlie\u00dflich eintrifft, versucht man sich mit Sch\u00e4ferspielen von den beunruhigenden Nachrichten aus Paris abzulenken. Unter den G\u00e4sten befindet sich auch der junge Dichter Andrea Ch\u00e9nier. Maddalena fordert ihn auf, eines seiner Gedichte vorzutragen. Er singt von der Liebe und beklagt die Ungerechtigkeit der herrschenden Zust\u00e4nde so eindringlich, dass sie tief betroffen den Saal verl\u00e4sst. Da \u00f6ffnen sich pl\u00f6tzlich die T\u00fcren und eine aufgew\u00fchlte Menschenmenge, angef\u00fchrt von G\u00e9rard, schockiert die Ballg\u00e4ste. Doch der Contessa gelingt es, die Menschen zur\u00fcckzuweisen. Der Tanz geht weiter. \n\nF\u00fcnf Jahre sp\u00e4ter tanzt niemand mehr. Paris zittert unter dem Regime Robespierres. G\u00e9rard ist Ankl\u00e4ger beim Revolutionstribunal geworden; Maddalena lebt verarmt in Paris, nur unterst\u00fctzt von ihrer ehemaligen Zofe Bersi, die sich als Kurtisane durchschl\u00e4gt. Ch\u00e9nier wird wegen seiner Gedichte gegen die Schreckensherrschaft Robespierres verfolgt. Obwohl ihn sein Freund Roucher eindringlich bittet, Paris zu verlassen, weigert er sich, denn er hat sich in eine Unbekannte verliebt, die ihm heimlich Briefe schreibt. Die Unbekannte ist Maddalena. Als sich die beiden bei einem n\u00e4chtlichen Treffen ihre Liebe gestehen, werden sie von G\u00e9rard \u00fcberrascht, der Maddalena seit einiger Zeit durch seine Spitzel suchen lie\u00df. Es kommt zum Kampf, bei dem G\u00e9rard verwundet wird. G\u00e9rard bittet seinen Rivalen, mit Maddalena zu fliehen und f\u00fcr ihre Sicherheit zu sorgen. Auf einer Sitzung des Revolutionstribunals einige Zeit sp\u00e4ter unterzeichnet er ...",
+      "OpusInfo": "Dramma di ambiente storico in vier Akten \nLibretto von Luigi Illica\nUrauff\u00fchrung am 28. M\u00e4rz 1896 in Mailand\nPremiere an der Deutschen Oper Berlin am 28. September 1994\n",
+      "OpusInfoShort": "Umberto Giordano [1867 \u2013 1948]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11568&language=de",
+      "PriceValueMinMax": "C-Preise: \u20ac 108,00 \/ 90,00 \/ 64,00 \/ 40,00 \/ 26,00 ",
+      "PictureUri": "https:\/\/img.culturebase.org\/6\/8\/c\/9\/d\/pic_1543593481_68c9da87fc0e087c205f352c0852b564.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F8%2Fc%2F9%2Fd%2Fpic_1543593481_68c9da87fc0e087c205f352c0852b564.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F2%2Fb%2F4%2F2%2Fpic_1706710776_72b42702a26324a707ab89606ec6a2aa.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F9%2Fd%2F7%2F5%2Fpic_1494939142_59d759e5fd8adc1599fa6a5e0718dd72.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2Fd%2F7%2F4%2F6%2Fpic_1494939141_cd74674ae0c7f317e699c77bb7cc5012.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F3%2F3%2Fc%2Ff%2Fpic_1543593483_e33cff98fb9d369e9f1834aaa111028f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Fd%2F2%2F1%2Ff%2Fpic_1543593485_3d21fcb801aa44ab38119ef2c3685f5e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2Fc%2F5%2F7%2F6%2Fpic_1543593486_fc576d322216a928150913a2385c821b.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fc%2Fa%2F4%2F9%2Fpic_1543593491_eca49de5074f161a8fd74f5ba6e909ea.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F9%2F7%2Fc%2Fb%2Fpic_1543593491_d97cb63a777f8671a150a33b61a6eb26.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F6%2Fd%2F9%2F4%2Fpic_1494943661_56d94354919ce808d525fd561e92e7b7.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Fa%2F0%2Ff%2F2%2Fpic_1543593493_3a0f289503d88180725297f4b68e96ea.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F7%2Fe%2F5%2Fb%2Fpic_1494943662_77e5bdf03d8fcbe6df35a71305cf7fc8.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F8%2F2%2Ff%2Fb%2Fpic_1494943663_682fbb87b5d3eac56104c44515ba0bde.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fa%2F2%2F6%2F1%2Fpic_1543593524_ba261be5bd30647ff943619354ac75ff.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2Ff%2Fc%2F2%2F4%2Fpic_1494944630_cfc245f0945fe3bc8c579bae20d8024f.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Andrea Chenier",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 13 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823001,
+      "IdEventCluster": 1369983,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/haensel-und-gretel.17823001",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-11 18:00:00",
+      "DateTo": "2026-01-02 17:00:00",
+      "DateTime4Overview": "So. 14.12.2025 - 16:00",
+      "DateTime": "14. Dezember 2025 | 16:00",
+      "DateFromTo": "11.12.2025 - 02.01.2026",
+      "Title": "H\u00e4nsel und Gretel",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Kinder \/ Jugend",
+      "isToday": null,
+      "DateDay": "14",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Sonntag",
+      "Duration": 8100,
+      "DurationTime": "02:15 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "Repertoire-25\/26; judo; nicht_gruppenformular; nicht_mitarbeiterformular",
+      "Status": "Familienvorstellung",
+      "Description": "Zum St\u00fcck\nH\u00e4nsel und Gretel sind die Kinder eines armen Besenbinders und seiner Frau. Als sie eines Tages \u00fcberm\u00fctig spielen, anstatt ihre Arbeit zu erledigen, werden sie von der Mutter zur Strafe in den Wald geschickt, um Beeren zu sammeln. Kurz darauf kommt der Vater nach einem erfolgreichen Tag vergn\u00fcgt und mit einem Korb voller leckerer Sachen heim. Er macht seiner Frau Vorw\u00fcrfe, denn im Wald treibt eine gef\u00e4hrliche Hexe ihr Unwesen. Die Eltern machen sich auf die Suche nach ihren Kindern. Inzwischen haben H\u00e4nsel und Gretel ihre K\u00f6rbchen gef\u00fcllt, aber vor lauter Hunger alle Beeren selbst verspeist. Als sie neue suchen wollen, merken sie, dass es bereits dunkel geworden ist. Sie haben sich im Wald verirrt. Sie beschlie\u00dfen, sich schlafen zu legen und sprechen ihr Abendgebet. Im Traum erleben sie wunderbare Dinge. Am n\u00e4chsten Morgen finden sie sich vor einem seltsamen Haus aus Lebkuchen und Zuckerzeug wieder. Als sie davon naschen wollen, erscheint pl\u00f6tzlich die Hexe und nimmt sie gefangen. H\u00e4nsel soll im Ofen gebraten werden, doch durch eine List gelingt es den Kindern, stattdessen die Hexe in den Ofen zu sto\u00dfen. Im selben Augenblick weicht der Zauber, und all die vielen Kinder, die schon vorher durch die Hexe in Lebkuchen verwandelt wurden, erhalten ihre Gestalt wieder und werden befreit. Als dann auch die Eltern erscheinen, ist die Familie endlich wieder vereint. Gl\u00fccklich gehen sie nach Hause.\n\nSeit \u00fcber 100 Jahren geh\u00f6rt Engelbert Humperdincks H\u00c4NSEL UND GRETEL zu den beliebtesten Opern f\u00fcr die ganze Familie. Humperdinck hatte der Versuchung nicht widerstehen k\u00f6nnen, das Werk mit seinen eing\u00e4ngigen Melodien und der nicht nur f\u00fcr Kinder dramatischen Geschichte in ein zweist\u00fcndiges sinfonisches Meisterwerk zu verwandeln. Es wurde in \u00fcber zwanzig Sprachen \u00fcbersetzt und bedeutet auch heute noch f\u00fcr viele Kinder die erste Begegnung mit der Welt der Oper. Musikalisch verbirgt das anspruchsvolle Werk seine N\u00e4he zu Wagner nicht, vermag aber auch unge\u00fcbtere Ohren in seinen ...",
+      "OpusInfo": "M\u00e4rchenspiel in drei Bildern\nLibretto von Adelheid Wette\nUrauff\u00fchrung am 23. Dezember 1893 in Weimar\nPremiere an der Deutschen Oper Berlin am 13. Dezember 1997\n\n",
+      "OpusInfoShort": "Engelbert Humperdinck [1854 \u2013 1921]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11647&language=de",
+      "PriceValueMinMax": "B-Preise: \u20ac 92,00 \/ 72,00 \/ 52,00 \/ 32,00 \/ 24,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/1\/1\/7\/e\/ec_5117e6d07887c81810340f66f3a8aae8.jpg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F1%2F1%2F7%2Fe%2Fec_5117e6d07887c81810340f66f3a8aae8.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fe%2F3%2F3%2Fc%2Fpic_1656424506_be33cf6c31432b799c7bfb7879c7445c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F3%2F2%2Fa%2F3%2Fpic_1589799684_c32a3ef18865f7bc2151c0325258e607.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F3%2Fd%2F4%2Fec_d63d49a98fc53e1e6bf3df45750496cd.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fa%2F1%2F5%2Fc%2Fec_ea15c889bbc578c3b0e49be12b0913c3.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F9%2F6%2Fb%2Fb%2Fec_196bb2478f344441f59ce97e89b6f6e7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2Fb%2F5%2F7%2F0%2Fec_7b570b6bd9f1cff48e0c77f9498b81b7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2Fc%2F4%2F4%2F1%2Fec_ac441eb9853b42b45cfb260975895ec7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2Fa%2F6%2F3%2F7%2Fec_8a637dcca5eabd48e641c6564ff43ccc.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F8%2Fe%2F5%2Fe%2Fec_38e5e0973685a44ecb6178da6d3a80f8.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F4%2F2%2Fb%2Fb%2Fec_642bb9a1c4c6a66d8521a26eec161422.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F6%2F7%2F1%2F2%2Fec_667126a04a35f55e0289846fabb5591b.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F7%2F0%2Fa%2F6%2Fec_f70a671b0ef45d6c15cd6a7da99c596d.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F0%2F3%2F2%2F4%2Fec_403246ce128cbf6d18e93cc9733c94ef.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F8%2Ff%2Fc%2F8%2Fec_f8fc88e075fb48c4e8fe9a3a81c60dbc.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F2%2F1%2F2%2Fc%2Fec_b212c873ab3ed96cc9f0570661c543f3.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2F6%2F9%2F0%2Fec_d06901e71c9e0bce7093faaec73c2bd9.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F2%2Ff%2F2%2Fb%2Fec_62f2bc035d65e84a90183ae83b94b296.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2F6%2Fe%2F7%2F9%2Fec_06e798f0cc27002e790eb51c6d8f97df.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fd%2F0%2F8%2F4%2Fec_5d084d2b2bcdd14bf38b2a5907f4d39d.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F9%2Fb%2F4%2F6%2Fec_c9b46506baa90da1e961cc9a58f442fb.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F7%2F1%2F0%2Fa%2Fec_e710ad4f382b0c30c851ab7494f886ed.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2Fa%2F5%2Fd%2F7%2Fec_1a5d702d94fc7b286ce87557c52f021e.jpg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "H\u00e4nsel und Gretel",
+      "PictureCopyright": "2014",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 8 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823032,
+      "IdEventCluster": 1370000,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/madama-butterfly.17823032",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-12 19:30:00",
+      "DateTo": "2026-02-23 19:30:00",
+      "DateTime4Overview": "Mo. 15.12.2025 - 19:30",
+      "DateTime": "15. Dezember 2025 | 19:30",
+      "DateFromTo": "12.12.2025 - 23.02.2026",
+      "Title": "Madama Butterfly",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Oper",
+      "isToday": null,
+      "DateDay": "15",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Montag",
+      "Duration": 10800,
+      "DurationTime": "03:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "madama; Repertoire-25\/26; ",
+      "Status": "Repertoire",
+      "Description": "Zum St\u00fcck\nDer amerikanische Leutnant Pinkerton ist mit seinem Schiff im Hafen von Nagasaki vor Anker gegangen. Um sich die Zeit zu vertreiben, hat er der erst 15-j\u00e4hrigen Geisha Cio-Cio-San, genannt Butterfly, den Hof gemacht, die einer vornehmen, aber verarmten Familie entstammt und ihre Liebe sehr ernst nimmt. Pinkerton will mit ihr eine \u201eEhe auf Zeit\u201c \u2013 damals zwischen europ\u00e4ischen M\u00e4nnern und Geishas nicht un\u00fcblich \u2013 eingehen und sucht sogar, unterst\u00fctzt von dem Heiratsvermittler Goro, ein kleines Haus f\u00fcr die gemeinsamen Flitterwochen aus. Als der amerikanische Konsul Sharpless ihn warnt, macht er sich \u00fcber seinen Freund lustig und st\u00f6\u00dft sogar auf den Tag an, an dem er mit einer Amerikanerin seine \u201eechte\u201c Hochzeit feiern werde. \n\nF\u00fcr die junge Japanerin, die aus Liebe sogar zum Glauben ihres Geliebten \u00fcbergetreten ist, hat die Verbindung mit dem Ausl\u00e4nder schmerzhafte Konsequenzen: Sie wird von ihrer Familie versto\u00dfen, nachdem die Trauung vollzogen ist. Nur schwer gelingt es Pinkerton, seinen \u201eSchmetterling\u201c zu tr\u00f6sten. \n\nDrei Jahre sind vergangen. Mit ihrer treuen Dienerin Suzuki und ihrem kleinen Kind f\u00fchrt Cio-Cio-San ein Leben in Abgeschiedenheit. Alle Versuche des F\u00fcrsten Yamadori, sie um ihre Hand zu bitten, weist sie ab, da sie unbeirrt an die R\u00fcckkehr Pinkertons glaubt. Als Sharpless endlich mit einer Nachricht Pinkertons kommt, in dem dieser ihn bittet, sie auf seine bevorstehende R\u00fcckkehr nach Nagasaki und seine inzwischen erfolgte Heirat mit der Amerikanerin Kate vorzubereiten, stellt er ersch\u00fcttert fest, dass sie ein Kind hat. Er wagt es nicht, seinen Auftrag auszuf\u00fchren und berichtet ihr nur von Pinkertons Ankunft. Cio-Cio-San ist gl\u00fccklich. Gemeinsam mit Suzuki schm\u00fcckt sie ihr Haus, legt ihr Hochzeitskleid an und erwartet ihren Geliebten. Als Pinkerton mit seiner Frau Kate und dem Konsul vor der T\u00fcr steht, erf\u00e4hrt Suzuki die ganze Wahrheit. Sie soll Butterfly \u00fcberreden, ihr Kind herzugeben. Pinkerton will ihr nicht pers\u00f6nlich gegen\u00fcbertreten und ...",
+      "OpusInfo": "Tragedia giapponese in drei Akten\nLibretto von Luigi Illica und Giuseppe Giacosa \nnach \u201eMadame Butterfly\u201c von David Belasco\nUrauff\u00fchrung am 17. Februar 1904 in Mailand\nPremiere an der Deutschen Oper Berlin am 20. Juni 1987",
+      "OpusInfoShort": "Giacomo Puccini [1858 \u2013 1924]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11684&language=de",
+      "PriceValueMinMax": "B-Preise: \u20ac 92,00 \/ 72,00 \/ 52,00 \/ 32,00 \/ 24,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/8\/8\/1\/7\/3\/pic_1653904142_88173a3fde041991ef89f8cf45268cbd.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F8%2F1%2F7%2F3%2Fpic_1653904142_88173a3fde041991ef89f8cf45268cbd.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F5%2F2%2Fb%2F8%2Fpic_1653644919_452b86cb92c023410fb1a3c020a0eb6b.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F1%2Fa%2F7%2F0%2Fpic_1653904135_31a70b8281cfa13144fdefbe61975a3b.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F7%2F9%2F3%2F7%2Fpic_1653904153_77937d4eb24f38b4b40b1e023327a6bd.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F2%2F2%2F8%2F0%2Fpic_1653904201_4228007863a5752ccc5f0b80aaf5a872.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F2%2F5%2F2%2F9%2Ff%2Fpic_1653904208_2529fd21d751366f6a3221397e2cb729.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fc%2Fe%2Fd%2F8%2Fpic_1653904222_bced814a71511560dbdef9d1bf2259fa.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fc%2F9%2Fc%2Ff%2Fpic_1653904229_5c9cf2c1cfaff1ea4affe80d661ae649.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2F9%2F5%2F2%2F3%2Fpic_1653904236_a9523a43bfac663eb41b2a69b6bcb3b3.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F4%2Ff%2Fd%2F9%2Fpic_1653904247_14fd9fbfb5403ab099d3187404a35208.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F9%2F1%2F1%2F8%2F7%2Fpic_1653904255_91187d9dd3398bb4d4bf7e1e7f1581e6.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Madama Butterfly",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 14 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17857299,
+      "IdEventCluster": 1376783,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/minus-16.17857299",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-16 19:30:00",
+      "DateTo": "2026-02-03 19:30:00",
+      "DateTime4Overview": "Di. 16.12.2025 - 19:30",
+      "DateTime": "16. Dezember 2025 | 19:30",
+      "DateFromTo": "16.12.2025 - 03.02.2026",
+      "Title": "Minus 16",
+      "ContentCategory": "",
+      "FormalCategory": "Ballett",
+      "isToday": null,
+      "DateDay": "16",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Dienstag",
+      "Duration": null,
+      "DurationTime": null,
+      "City": "",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": "Staatsballett Berlin",
+      "OrganizerPicture": "https:\/\/img.culturebase.org\/5\/6\/2\/6\/a\/adr_1454498899_5626aa17e3915392aa2eec71133eed80.jpeg",
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "cb_in_parser_sbb_664",
+      "Status": null,
+      "Description": "\nOhad Naharin ist ein weltweit anerkannter israelischer Choreograph und Erfinder des Bewegungsansatzes Gaga, der, ausgehend von der Batsheva Dance Company in Tel Aviv, heute weltweit Verbreitung gefunden hat und gelehrt wird. Damit T\u00e4nzer*innen jenseits der eigentlichen Choreographie eine pers\u00f6nliche und emotionale Verbindung zum Material und zum Moment der Auff\u00fchrung aufbauen k\u00f6nnen, wird mit der Gaga-Methode die vollst\u00e4ndige emotionale \u00d6ffnung erarbeitet.\n\nNaharins ber\u00fchmtes und immer wieder sehenswertes St\u00fcck Minus 16 macht genau das konkret zum Thema. Mit energiegeladenen Einspielungen von popul\u00e4rer kubanischer und israelischer Musik wird das St\u00fcck von einem gro\u00dfen Ensemble individuell interpretiert und kraftvoll in Bewegung gesetzt. Die positive Dynamik ist ansteckend und die Ansteckung beabsichtigt. Seit der Urauff\u00fchrung 1999 beim Nederlands Dans Theater sorgt das St\u00fcck regelm\u00e4\u00dfig f\u00fcr Standing Ovations \u2013 ein mitrei\u00dfendes Ereignis f\u00fcr Publikum und T\u00e4nzer*innen gleicherma\u00dfen.\n\nSAABA ist das vierte Werk der international gefeierten Choreographin Sharon Eyal, das vom Staatsballett Berlin pr\u00e4sentiert wird. Einmal mehr erschafft sie ein faszinierendes und geheimnisvolles Universum aus Bewegungsformationen und Rhythmen. Die pulsierende elektronische Musik von Ori Lichtik mischt sich hier mit den konkreteren melodischen Mustern existierender Musiktitel zu einem oszillierenden Klangteppich. Sharon Eyals unverwechselbarer Stil, der von hypnotisch-pulsierender Energie gepr\u00e4gt ist, entfaltet vor dieser ausdrucksvollen Klangwelt seine volle Wirkung.\n\n_\n\nHinweis: W\u00e4hrend der Auff\u00fchrung werden unvermittelte und starke Sound-Effekte ausgel\u00f6st, die unter Umst\u00e4nden ein gewohntes Ma\u00df \u00fcberschreiten.\u00a0\n\n",
+      "OpusInfo": "SAABA \/ Minus 16",
+      "OpusInfoShort": null,
+      "PriceUrl": "https:\/\/staatsballett-berlin.eventim-inhouse.de\/webshop\/webticket\/shop?event=19340&language=de",
+      "PriceValueMinMax": "28 - 54",
+      "PictureUri": "https:\/\/img.culturebase.org\/a\/f\/e\/b\/4\/ec_afeb465224e4fa76efee49f50e0a7c04.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2Ff%2Fe%2Fb%2F4%2Fec_afeb465224e4fa76efee49f50e0a7c04.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "SAABA",
+      "PictureCopyright": "Admill Kuyler",
+      "Url": "https:\/\/www.staatsballett-berlin.de\/spielplan\/stueck-detail\/stid\/minus-16\/145.html#a_664",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 182260,
+      "FlagStatusType": "ausverkauft",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": null,
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17864852,
+      "IdEventCluster": 1377471,
+      "IdEventType": 1,
+      "DetailLink": "\/de_DE\/calendar\/2-tischlereikonzert-guilty-pleasures-ein-s.17864852",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Einzeltermin",
+      "DateFrom": "2025-12-17 20:00:00",
+      "DateTo": "2025-12-17 20:00:00",
+      "DateTime4Overview": "Mi. 17.12.2025 - 20:00",
+      "DateTime": "17. Dezember 2025 | 20:00",
+      "DateFromTo": null,
+      "Title": "2. Tischlereikonzert: Guilty pleasures \u2013 Ein Schnulzen-Abend",
+      "ContentCategory": "Classical Music",
+      "FormalCategory": "Classical Music",
+      "isToday": null,
+      "DateDay": "17",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Mittwoch",
+      "Duration": 7200,
+      "DurationTime": "02:00 h",
+      "City": "Berlin ",
+      "Location": "Tischlerei der Deutschen Oper Berlin",
+      "LocationPicture": null,
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30153,
+      "Latitude": 52.5074,
+      "Keywords": "dob_kammerkonzerte; dob_konzertkalender; tischlerei19\/20; Tischlerei25\/26",
+      "Status": null,
+      "Description": "Auch in der klassischen Musik gibt es Werke, die der Grenze zum Kitsch nahekommen. Unsere Musiker*innen und Solist*innen aus dem Ensemble pr\u00e4sentieren Musik f\u00fcr Herz und Seele, u. a. von Rachmaninov, Dvorak oder Edith Piaf. Guter Rat: Taschent\u00fccher nicht vergessen!\n\n***********\n\nInspiriert von Produktionen des Opernspielplans stellen die Musiker*innen des Orchesters sechs dramaturgisch konzipierte Programme zusammen, die in ihrer musikalischen Bandbreite in Berlin ihresgleichen suchen. Von Sologeige \u00fcber Lieder bis Schlagzeugensembles erleben Sie \u00fcberraschende Konzerte, die unsere kuratierenden Kolleg*innen charmant und kenntnisreich moderieren.",
+      "OpusInfo": "Moderierte Kammermusik in der Tischlerei",
+      "OpusInfoShort": "Moderierte Kammermusik in der Tischlerei",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11804&language=de",
+      "PriceValueMinMax": "\u20ac 18,00 \/ erm\u00e4\u00dfigt \u20ac 10,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/a\/b\/9\/7\/3\/pic_1752593214_ab973805691462139536e002bd6da227.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2Fb%2F9%2F7%2F3%2Fpic_1752593214_ab973805691462139536e002bd6da227.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Guilty pleasures",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "right",
+      "HideLocation": false,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": null,
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17822991,
+      "IdEventCluster": 1369978,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/andrea-chenier.17822991",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-08 18:00:00",
+      "DateTo": "2025-12-18 19:30:00",
+      "DateTime4Overview": "Do. 18.12.2025 - 19:30",
+      "DateTime": "18. Dezember 2025 | 19:30",
+      "DateFromTo": "08.12.2025 - 18.12.2025",
+      "Title": "Andrea Chenier",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Oper",
+      "isToday": null,
+      "DateDay": "18",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Donnerstag",
+      "Duration": 9000,
+      "DurationTime": "02:30 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "andrea; Repertoire-25\/26;",
+      "Status": "Zum letzten Mal",
+      "Description": "Sommer 1789. Im Schloss der Contessa di Coigny wird ein Fest vorbereitet. Carlo G\u00e9rard, Diener im Hause der Contessa, schreit seinen Hass auf die Dekadenz der franz\u00f6sischen Aristokratie heraus. Sein alter Vater muss von fr\u00fch bis sp\u00e4t schuften, er selbst, der mit der Tochter des Hauses, Maddalena di Coigny, aufgewachsen ist und sie heimlich, aber aussichtslos liebt, f\u00fchrt ein w\u00fcrdeloses Dasein als Lakai. Die politische Lage ist angespannt. Doch als die Ballgesellschaft schlie\u00dflich eintrifft, versucht man sich mit Sch\u00e4ferspielen von den beunruhigenden Nachrichten aus Paris abzulenken. Unter den G\u00e4sten befindet sich auch der junge Dichter Andrea Ch\u00e9nier. Maddalena fordert ihn auf, eines seiner Gedichte vorzutragen. Er singt von der Liebe und beklagt die Ungerechtigkeit der herrschenden Zust\u00e4nde so eindringlich, dass sie tief betroffen den Saal verl\u00e4sst. Da \u00f6ffnen sich pl\u00f6tzlich die T\u00fcren und eine aufgew\u00fchlte Menschenmenge, angef\u00fchrt von G\u00e9rard, schockiert die Ballg\u00e4ste. Doch der Contessa gelingt es, die Menschen zur\u00fcckzuweisen. Der Tanz geht weiter. \n\nF\u00fcnf Jahre sp\u00e4ter tanzt niemand mehr. Paris zittert unter dem Regime Robespierres. G\u00e9rard ist Ankl\u00e4ger beim Revolutionstribunal geworden; Maddalena lebt verarmt in Paris, nur unterst\u00fctzt von ihrer ehemaligen Zofe Bersi, die sich als Kurtisane durchschl\u00e4gt. Ch\u00e9nier wird wegen seiner Gedichte gegen die Schreckensherrschaft Robespierres verfolgt. Obwohl ihn sein Freund Roucher eindringlich bittet, Paris zu verlassen, weigert er sich, denn er hat sich in eine Unbekannte verliebt, die ihm heimlich Briefe schreibt. Die Unbekannte ist Maddalena. Als sich die beiden bei einem n\u00e4chtlichen Treffen ihre Liebe gestehen, werden sie von G\u00e9rard \u00fcberrascht, der Maddalena seit einiger Zeit durch seine Spitzel suchen lie\u00df. Es kommt zum Kampf, bei dem G\u00e9rard verwundet wird. G\u00e9rard bittet seinen Rivalen, mit Maddalena zu fliehen und f\u00fcr ihre Sicherheit zu sorgen. Auf einer Sitzung des Revolutionstribunals einige Zeit sp\u00e4ter unterzeichnet er ...",
+      "OpusInfo": "Dramma di ambiente storico in vier Akten \nLibretto von Luigi Illica\nUrauff\u00fchrung am 28. M\u00e4rz 1896 in Mailand\nPremiere an der Deutschen Oper Berlin am 28. September 1994\n",
+      "OpusInfoShort": "Umberto Giordano [1867 \u2013 1948]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11569&language=de",
+      "PriceValueMinMax": "C-Preise: \u20ac 108,00 \/ 90,00 \/ 64,00 \/ 40,00 \/ 26,00 ",
+      "PictureUri": "https:\/\/img.culturebase.org\/6\/8\/c\/9\/d\/pic_1543593481_68c9da87fc0e087c205f352c0852b564.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F8%2Fc%2F9%2Fd%2Fpic_1543593481_68c9da87fc0e087c205f352c0852b564.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F2%2Fb%2F4%2F2%2Fpic_1706710776_72b42702a26324a707ab89606ec6a2aa.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F9%2Fd%2F7%2F5%2Fpic_1494939142_59d759e5fd8adc1599fa6a5e0718dd72.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2Fd%2F7%2F4%2F6%2Fpic_1494939141_cd74674ae0c7f317e699c77bb7cc5012.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F3%2F3%2Fc%2Ff%2Fpic_1543593483_e33cff98fb9d369e9f1834aaa111028f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Fd%2F2%2F1%2Ff%2Fpic_1543593485_3d21fcb801aa44ab38119ef2c3685f5e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2Fc%2F5%2F7%2F6%2Fpic_1543593486_fc576d322216a928150913a2385c821b.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fc%2Fa%2F4%2F9%2Fpic_1543593491_eca49de5074f161a8fd74f5ba6e909ea.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F9%2F7%2Fc%2Fb%2Fpic_1543593491_d97cb63a777f8671a150a33b61a6eb26.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F6%2Fd%2F9%2F4%2Fpic_1494943661_56d94354919ce808d525fd561e92e7b7.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Fa%2F0%2Ff%2F2%2Fpic_1543593493_3a0f289503d88180725297f4b68e96ea.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F7%2Fe%2F5%2Fb%2Fpic_1494943662_77e5bdf03d8fcbe6df35a71305cf7fc8.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F8%2F2%2Ff%2Fb%2Fpic_1494943663_682fbb87b5d3eac56104c44515ba0bde.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fa%2F2%2F6%2F1%2Fpic_1543593524_ba261be5bd30647ff943619354ac75ff.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2Ff%2Fc%2F2%2F4%2Fpic_1494944630_cfc245f0945fe3bc8c579bae20d8024f.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Andrea Chenier",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 13 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17822861,
+      "IdEventCluster": 1369969,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/le-nozze-di-figaro.17822861",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-03 18:00:00",
+      "DateTo": "2026-01-04 17:00:00",
+      "DateTime4Overview": "Fr. 19.12.2025 - 17:00",
+      "DateTime": "19. Dezember 2025 | 17:00",
+      "DateFromTo": "03.12.2025 - 04.01.2026",
+      "Title": "Le nozze di Figaro",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Oper",
+      "isToday": null,
+      "DateDay": "19",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Freitag",
+      "Duration": 13500,
+      "DurationTime": "03:45 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "hochzeit; Repertoire-25\/26; ",
+      "Status": "Repertoire",
+      "Description": "Zum St\u00fcck\nFigaro und Susanna, Bedienstete am Hofe des Grafen Almaviva, wollen heiraten und richten sich im Schloss des Grafen die ihnen zugewiesene Wohnung ein. W\u00e4hrend Figaro voller Vorfreude das Bett ausmisst, bleibt Susanna misstrauisch. Sie bef\u00fcrchtet, dass der Graf, dessen Liebe zu seiner Frau Rosina l\u00e4ngst abgek\u00fchlt ist, von seinem \u201eRecht der ersten Nacht\u201c Gebrauch machen werde. Figaro ist au\u00dfer sich und nimmt sich vor, die Pl\u00e4ne seines Herrn zu vereiteln. Auch bedr\u00fcckt ihn ein anderes Problem: Aus Geldnot hatte er einst Marcellina, der Haush\u00e4lterin des Grafen, die Ehe versprochen und wird nun von ihr bedr\u00e4ngt. Inzwischen hat der Page Cherubino Zuflucht bei Susanna gesucht, die im Schlafzimmer der Gr\u00e4fin mit deren Garderobe besch\u00e4ftigt ist. Der Graf hatte ihn bei der G\u00e4rtnerstochter Barbarina ertappt und entlassen, und Susanna soll nun ein gutes Wort f\u00fcr ihn einlegen. Als der Graf eintritt, um Susanna f\u00fcr sich zu gewinnen, muss er sich verstecken. Da betritt der Musikmeister Basilio die Szene, wenig sp\u00e4ter Figaro. Die Situation wird immer turbulenter, nur Susanna gelingt es mit M\u00fche, den \u00dcberblick zu behalten.\n\nWiderwillig stimmt der Graf zu, der Braut selbst den Schleier anzulegen, nicht ohne im Stillen darauf zu hoffen, dass sich f\u00fcr ihn noch eine Chance findet. W\u00e4hrend dessen beklagt die Gr\u00e4fin die Lieblosigkeit ihres Mannes. Figaro und Susanna wollen ihr helfen und schlagen eine Intrige vor: Der Graf solle eifers\u00fcchtig gemacht werden und zugleich einen Denkzettel erhalten. Da die Beteiligten im Verlauf der Ereignisse aber jeweils auch ihre eigenen Wege gehen, geraten die Dinge au\u00dfer Kontrolle. Nicht nur die Ehe von Graf und Gr\u00e4fin, sondern auch die Liebe des jungen Paares scheinen gef\u00e4hrdet. Erst viele Verwicklungen sp\u00e4ter und am Ende eines \u00e4u\u00dferst missgl\u00fcckten abendlichen Stelldicheins findet man sich wieder zusammen, gel\u00e4utert und \u2013 vielleicht \u2013 ein wenig kl\u00fcger.\n\nDIE HOCHZEIT DES FIGARO, Mozarts erste Zusammenarbeit mit dem Textdichter Lorenzo da Ponte ...",
+      "OpusInfo": "Die Hochzeit des Figaro\nCommedia per musica  in vier Akten\nLibretto von Lorenzo da Ponte\nUrauff\u00fchrung am 1. Mai 1786 in Wien\nPremiere an der Deutschen Oper Berlin am 14. Dezember 1978\n\n",
+      "OpusInfoShort": "Wolfgang Amadeus Mozart [1756 \u2013 1791]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11670&language=de",
+      "PriceValueMinMax": "C-Preise: \u20ac 108,00 \/ 90,00 \/ 64,00 \/ 40,00 \/ 26,00 ",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/1\/1\/5\/0\/pic_1520250903_511505843de383c0e958c2f8931f188d.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F1%2F1%2F5%2F0%2Fpic_1520250903_511505843de383c0e958c2f8931f188d.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2Fb%2F2%2Fb%2F4%2Fpic_1705060958_db2b49a7a2691b3cba3e323c46e172a3.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F0%2Fa%2Fa%2Fc%2Fpic_1705060962_e0aac1f084b108fd9fd97d1b99bff180.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fd%2Ff%2Fa%2F6%2Fpic_1705060965_edfa685c4202276532d95c0ec4180c8f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F4%2F3%2F3%2F4%2Fpic_1705060969_14334e0315d12b94f22d254fa4494372.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F3%2F1%2F8%2F5%2Fpic_1705060972_7318505dfd81cc6ce4af4e8489eacd24.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F7%2Fb%2Fb%2Fpic_1705060976_d67bbc5e6f6b949ee0e99a913ea37554.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F2%2F1%2Fd%2F0%2Fpic_1705060979_521d0a632fe88318372b4b80d59dcb0e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F6%2Ff%2Fe%2F0%2Fpic_1705060983_f6fe0e9e4ae917134c5d0ce270c49c3c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F2%2Fb%2F4%2Fc%2F5%2Fpic_1705060986_2b4c5557c1c9fed5d2e04fb8f207e289.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F9%2Fe%2Fa%2Fc%2Fpic_1705073184_f9eac8b215c639a537517ee3ed47b0d0.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Fc%2F9%2Fb%2F1%2Fpic_1705060990_3c9b1530dae8c9dca9d1357e5d147467.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F4%2Fa%2Ff%2Ff%2Fpic_1705060993_f4aff9eb38d515f9d8c1eb33bd32627a.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F9%2F3%2Fc%2Fa%2Fpic_1705060997_493ca6245b6359d3ed2cc159dfedaf53.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2Fb%2F4%2Fc%2F1%2Fpic_1705061000_cb4c147d40422b9de37eefdd86bf57cc.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F7%2F0%2F7%2F8%2Fpic_1705061004_57078fe0f25abd52fbd323fb6876d04f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Ff%2F9%2Fb%2F1%2Fpic_1705061007_bf9b144d96fd605fdf01e4057bb0d536.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F7%2F5%2F7%2F2%2Fpic_1705061011_87572ef9d54dd5995929e3d8160fa104.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2F5%2Fb%2Fa%2F5%2Fpic_1705061014_a5ba5765280fb54dc9e0e3c1423c895e.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Die Hochzeit des Figaro",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 13 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17896167,
+      "IdEventCluster": 1382655,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/fuehrung.17896167",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-06 13:00:00",
+      "DateTo": "2026-07-12 13:00:00",
+      "DateTime4Overview": "Sa. 20.12.2025 - 13:00",
+      "DateTime": "20. Dezember 2025 | 13:00",
+      "DateFromTo": "06.12.2025 - 12.07.2026",
+      "Title": "F\u00fchrung",
+      "ContentCategory": "Guided Tour",
+      "FormalCategory": "Special",
+      "isToday": null,
+      "DateDay": "20",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Samstag",
+      "Duration": 5400,
+      "DurationTime": "01:30 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "kalenderrechts; nichtclassiccard; nogrossersaal; nicht_mitarbeiterformular; nicht_gruppenformular; nostarter; nicht_mitwirkendenformular",
+      "Status": null,
+      "Description": "Unsere F\u00fchrungen durch das Zuschauerhaus und \u00fcber die B\u00fchnen sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin vermitteln Ihnen spannende Eindr\u00fccke und Wissenswertes \u00fcber die Deutsche Oper Berlin und den Alltag hinter den Kulissen. Welches architektonische Konzept verbirgt sich hinter der langen Waschbeton-Fassade an der Bismarckstra\u00dfe? Wie entsteht ein B\u00fchnenbild? Wie laufen Proben ab? Erfahren Sie au\u00dferdem Details zur bewegten Geschichte des Hauses, das heute mit seinen modernen Neuinszenierungen und den fr\u00fchen Repertoiresch\u00e4tzen einen Querschnitt durch \u00fcber 40 Jahre Inszenierungs- und Auff\u00fchrungspraxis zu bieten hat.",
+      "OpusInfo": "durch den Besucherbereich und \u00fcber die B\u00fchnen, sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin.",
+      "OpusInfoShort": "Treffpunkt: Kassenhalle",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11927&language=de",
+      "PriceValueMinMax": "10,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/b\/d\/b\/a\/pic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fb%2Fd%2Fb%2Fa%2Fpic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F9%2F7%2F7%2F3%2Fpic_1632754628_b9773200e534f09d0706be03200ae4e9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2F9%2F3%2F1%2Fpic_1632754830_d0931abad93f9a78ba05f9a4e22c9eb1.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F9%2Fd%2Fb%2Ff%2Ff%2Fpic_1632754632_9dbffcfb21263f85de8b19e841debffa.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F4%2F5%2F8%2Fpic_1632754636_d6458ad7abc01c2589c6a53e80afd303.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fc%2F0%2F9%2Fc%2Fpic_1632754834_4c09c58f2b6db41cd70810991160b9f8.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2Fe%2F5%2Fb%2Fpic_1632754639_d0e5b8a9a875b3ff417fffec749a8985.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F6%2F4%2F0%2F0%2Fpic_1632754826_f64002ab55d7ed07d9a929d91f3f4459.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F7%2Ff%2Fd%2F5%2Fpic_1632754643_b7fd5153f017d5294f97193544b879c0.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Backstage-F\u00fchrung",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "right",
+      "HideLocation": false,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 10 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17896212,
+      "IdEventCluster": 1382656,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/familienfuehrung.17896212",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-11-29 14:30:00",
+      "DateTo": "2026-07-12 14:30:00",
+      "DateTime4Overview": "Sa. 20.12.2025 - 14:30",
+      "DateTime": "20. Dezember 2025 | 14:30",
+      "DateFromTo": "29.11.2025 - 12.07.2026",
+      "Title": "Familienf\u00fchrung",
+      "ContentCategory": "F\u00fchrung",
+      "FormalCategory": "Special",
+      "isToday": null,
+      "DateDay": "20",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Samstag",
+      "Duration": 3600,
+      "DurationTime": "01:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "kalenderrechts; nichtclassiccard; nogrossersaal; nicht_mitarbeiterformular; nicht_gruppenformular; judo; nostarter; nicht_mitwirkendenformular",
+      "Status": "Familienvorstellung",
+      "Description": "Unsere F\u00fchrungen durch das Zuschauerhaus und \u00fcber die B\u00fchnen sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin vermitteln Ihnen spannende Eindr\u00fccke und Wissenswertes \u00fcber die Deutsche Oper Berlin und den Alltag hinter den Kulissen. Welches architektonische Konzept verbirgt sich hinter der langen Waschbeton-Fassade an der Bismarckstra\u00dfe? Wie entsteht ein B\u00fchnenbild? Wie laufen Proben ab? Erfahren Sie au\u00dferdem Details zur bewegten Geschichte des Hauses, das heute mit seinen modernen Neuinszenierungen und den fr\u00fchen Repertoiresch\u00e4tzen einen Querschnitt durch \u00fcber 40 Jahre Inszenierungs- und Auff\u00fchrungspraxis zu bieten hat.",
+      "OpusInfo": "durch den Besucherbereich und \u00fcber die B\u00fchnen, sowie durch die Probenr\u00e4ume und das B\u00fchnenbildmagazin der Deutschen Oper Berlin.",
+      "OpusInfoShort": "Treffpunkt: Kassenhalle",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11991&language=de",
+      "PriceValueMinMax": "5,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/b\/d\/b\/a\/pic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fb%2Fd%2Fb%2Fa%2Fpic_1632754624_5bdba12eaf664486c48abdad24fa5213.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F9%2F7%2F7%2F3%2Fpic_1632754628_b9773200e534f09d0706be03200ae4e9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2F9%2F3%2F1%2Fpic_1632754830_d0931abad93f9a78ba05f9a4e22c9eb1.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F9%2Fd%2Fb%2Ff%2Ff%2Fpic_1632754632_9dbffcfb21263f85de8b19e841debffa.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F4%2F5%2F8%2Fpic_1632754636_d6458ad7abc01c2589c6a53e80afd303.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fc%2F0%2F9%2Fc%2Fpic_1632754834_4c09c58f2b6db41cd70810991160b9f8.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2Fe%2F5%2Fb%2Fpic_1632754639_d0e5b8a9a875b3ff417fffec749a8985.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F6%2F4%2F0%2F0%2Fpic_1632754826_f64002ab55d7ed07d9a929d91f3f4459.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F7%2Ff%2Fd%2F5%2Fpic_1632754643_b7fd5153f017d5294f97193544b879c0.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Backstage-F\u00fchrung",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "right",
+      "HideLocation": false,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 6 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823018,
+      "IdEventCluster": 1369988,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/die-fledermaus.17823018",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-20 19:30:00",
+      "DateTo": "2026-01-03 17:00:00",
+      "DateTime4Overview": "Sa. 20.12.2025 - 19:30",
+      "DateTime": "20. Dezember 2025 | 19:30",
+      "DateFromTo": "20.12.2025 - 03.01.2026",
+      "Title": "Die Fledermaus",
+      "ContentCategory": "Operette",
+      "FormalCategory": "Operette",
+      "isToday": null,
+      "DateDay": "20",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Samstag",
+      "Duration": 10800,
+      "DurationTime": "03:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "Fledermaus; dob_foerderkreis; Repertoire-25\/26",
+      "Status": "Repertoire",
+      "Description": "\u201eChampagner hat\u2019s verschuldet, tralalalala\u201c \u2013 darauf einigen sich nach einer durchzechten Nacht voller Verwechslungen und erotischer Ausrutscher am Ende die Protagonisten in Johann Strau\u00df\u2019 FLEDERMAUS. Schuld ist aber nicht nur der Alkohol, sondern Verwirrung stiftet vor allem die Intrige des gedem\u00fctigten Dr. Falke, der einst in einem Fledermauskost\u00fcm dem Spott der Kleinstadtgesellschaft ausgesetzt war und jetzt seine Chance nutzt, um sich an seinem \u201aguten Freund\u2018, dem Lebemann Gabriel von Eisenstein, zu r\u00e4chen. Und so werden die Kammerzofe als Schauspielerin, die Gattin als ungarische Gr\u00e4fin und Eisenstein selbst als franz\u00f6sischer Marquis maskiert und auf den Ball des Prinzen Orlofsky geschickt. Dass darauf nur Katzenjammer am fr\u00fchen Morgen im Gef\u00e4ngnis folgt, liegt dann auch weniger am Champagner als in der Natur der Dinge. Johann Strau\u00df gelang mit seiner FLEDERMAUS der Prototyp der Wiener Operette \u2013 walzergeschw\u00e4ngert, polkabesessen und dabei voller bitterb\u00f6ser Ironie. Inspiriert von den Offenbachschen Op\u00e9ras bouffes aus Paris wurde dem b\u00fcrgerlichen Salonpublikum schonungslos der Spiegel vorgehalten \u2013 und mancher Zuschauer erkannte sich im abstrusen B\u00e4umchen-wechseldich-Spiel auf der B\u00fchne wieder.\n\n\u201eDie Themen, die Figuren, die Masken, die uns Strau\u00df und Gen\u00e9e zeigen, erz\u00e4hlen von den gleichen gefestigten Strukturen, in denen wir heute denken. Das war vor hundert Jahren so, das ist heute so, das wird morgen so sein, das wird so in der Zukunft sein \u2026 Es ist eine gro\u00dfe Pantomime, eine Parabel, ein Spiel.\u201c (Rolando Villaz\u00f3n) ",
+      "OpusInfo": "Operette in drei Akten\nLibretto von Karl Haffner und Richard Gen\u00e9e\nUrauff\u00fchrung am 5. April 1874 im Theater an der Wien\nPremiere an der Deutschen Oper Berlin am 28. April 2018\n",
+      "OpusInfoShort": "Johann Strau\u00df [1825 \u2013 1899]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11601&language=de",
+      "PriceValueMinMax": "C-Preise: \u20ac 108,00 \/ 90,00 \/ 64,00 \/ 40,00 \/ 26,00 ",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/c\/8\/d\/c\/pic_1524837192_5c8dceff85402b7411482fac1f55fd6f.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fc%2F8%2Fd%2Fc%2Fpic_1524837192_5c8dceff85402b7411482fac1f55fd6f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fc%2Fa%2Ff%2Fa%2Fpic_1764856794_bcafa565241d47f0e0704df22389b131.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F0%2Fd%2F7%2F7%2Fpic_1524744158_b0d7774c306e300898f1b272ac25673c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F8%2Fb%2F8%2Fd%2Fpic_1639730256_38b8d660fff67f2206b447b9a22d08bc.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fe%2Fd%2F3%2F3%2Fpic_1639730260_4ed337836b6ffe5f03206d36bbd04a43.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F5%2Ff%2F5%2Ff%2Fpic_1639730271_75f5f9bd89f77b7205f0efe6b72ac247.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F0%2F1%2F2%2Fa%2Fpic_1639730264_4012a948ff80536ea444f2aac6b8ba39.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2Fb%2F5%2F1%2F1%2Fpic_1639730274_db5111d0d02544ecd9361dc31a166bce.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F2%2F5%2Fc%2Fb%2Fpic_1639731724_e25cb5609cd129b543406f19b2566dba.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F5%2F6%2Fe%2F5%2Fpic_1639731731_b56e5f0345e04c3ebd5a42133534c984.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fb%2F6%2Fd%2F9%2Fpic_1639731713_bb6d9fe3be73bdcc3bd1d5b1ab0df052.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F7%2F7%2F8%2F4%2Fpic_1524837195_77784c552fd68f0b31012a6e54051441.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F4%2Fe%2F4%2F2%2Fpic_1524837190_34e420da86ebeda46946af244f5668ea.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2Ff%2F1%2F9%2F7%2Fpic_1639731795_6f197fed9cba2b1632bf4a61d31ede93.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fd%2F8%2F0%2F7%2Fpic_1639734886_5d807d91f2ef1c49b7457a88aeaab553.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2Fb%2Fc%2F0%2F0%2Fpic_1639731805_0bc0091a1aeaef4c13bc706c8edd3a87.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F3%2Fe%2F1%2F5%2Fpic_1524744075_e3e151d776ba7fa1c632b6f82b5e956f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F0%2F0%2F4%2Ff%2Fpic_1639732518_b004f0f339e0791a1329855da7978b3e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2Fe%2Ff%2Ff%2F6%2Fpic_1639732511_deff6de76b395093919146fcc73965f1.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2F2%2F4%2Fc%2F1%2Fpic_1524837199_a24c18f6b5e30c9b874c30851389dc46.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2Ff%2F5%2Fe%2F6%2Fpic_1524837194_7f5e6891c25cf67b7e673debad8ec9c4.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2Fb%2F7%2F4%2F9%2Fpic_1639734889_0b749f6caa5a46c9e3c20c4a17111f83.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F6%2F3%2Fc%2F9%2Fpic_1639732522_163c94384edb5e00ef3a1cf54455e4ba.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F3%2Fd%2Fb%2Fa%2Fpic_1639732532_33dba125671f03fc7fcb4fa4fb943953.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Die Fledermaus",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 13 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823019,
+      "IdEventCluster": 1369988,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/die-fledermaus.17823019",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-20 19:30:00",
+      "DateTo": "2026-01-03 17:00:00",
+      "DateTime4Overview": "So. 21.12.2025 - 15:00",
+      "DateTime": "21. Dezember 2025 | 15:00",
+      "DateFromTo": "20.12.2025 - 03.01.2026",
+      "Title": "Die Fledermaus",
+      "ContentCategory": "Operette",
+      "FormalCategory": "Operette",
+      "isToday": null,
+      "DateDay": "21",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Sonntag",
+      "Duration": 10800,
+      "DurationTime": "03:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "Fledermaus; dob_foerderkreis; Repertoire-25\/26",
+      "Status": "Repertoire",
+      "Description": "\u201eChampagner hat\u2019s verschuldet, tralalalala\u201c \u2013 darauf einigen sich nach einer durchzechten Nacht voller Verwechslungen und erotischer Ausrutscher am Ende die Protagonisten in Johann Strau\u00df\u2019 FLEDERMAUS. Schuld ist aber nicht nur der Alkohol, sondern Verwirrung stiftet vor allem die Intrige des gedem\u00fctigten Dr. Falke, der einst in einem Fledermauskost\u00fcm dem Spott der Kleinstadtgesellschaft ausgesetzt war und jetzt seine Chance nutzt, um sich an seinem \u201aguten Freund\u2018, dem Lebemann Gabriel von Eisenstein, zu r\u00e4chen. Und so werden die Kammerzofe als Schauspielerin, die Gattin als ungarische Gr\u00e4fin und Eisenstein selbst als franz\u00f6sischer Marquis maskiert und auf den Ball des Prinzen Orlofsky geschickt. Dass darauf nur Katzenjammer am fr\u00fchen Morgen im Gef\u00e4ngnis folgt, liegt dann auch weniger am Champagner als in der Natur der Dinge. Johann Strau\u00df gelang mit seiner FLEDERMAUS der Prototyp der Wiener Operette \u2013 walzergeschw\u00e4ngert, polkabesessen und dabei voller bitterb\u00f6ser Ironie. Inspiriert von den Offenbachschen Op\u00e9ras bouffes aus Paris wurde dem b\u00fcrgerlichen Salonpublikum schonungslos der Spiegel vorgehalten \u2013 und mancher Zuschauer erkannte sich im abstrusen B\u00e4umchen-wechseldich-Spiel auf der B\u00fchne wieder.\n\n\u201eDie Themen, die Figuren, die Masken, die uns Strau\u00df und Gen\u00e9e zeigen, erz\u00e4hlen von den gleichen gefestigten Strukturen, in denen wir heute denken. Das war vor hundert Jahren so, das ist heute so, das wird morgen so sein, das wird so in der Zukunft sein \u2026 Es ist eine gro\u00dfe Pantomime, eine Parabel, ein Spiel.\u201c (Rolando Villaz\u00f3n) ",
+      "OpusInfo": "Operette in drei Akten\nLibretto von Karl Haffner und Richard Gen\u00e9e\nUrauff\u00fchrung am 5. April 1874 im Theater an der Wien\nPremiere an der Deutschen Oper Berlin am 28. April 2018\n",
+      "OpusInfoShort": "Johann Strau\u00df [1825 \u2013 1899]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11602&language=de",
+      "PriceValueMinMax": "C-Preise: \u20ac 108,00 \/ 90,00 \/ 64,00 \/ 40,00 \/ 26,00 ",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/c\/8\/d\/c\/pic_1524837192_5c8dceff85402b7411482fac1f55fd6f.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fc%2F8%2Fd%2Fc%2Fpic_1524837192_5c8dceff85402b7411482fac1f55fd6f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fc%2Fa%2Ff%2Fa%2Fpic_1764856794_bcafa565241d47f0e0704df22389b131.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F0%2Fd%2F7%2F7%2Fpic_1524744158_b0d7774c306e300898f1b272ac25673c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F8%2Fb%2F8%2Fd%2Fpic_1639730256_38b8d660fff67f2206b447b9a22d08bc.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fe%2Fd%2F3%2F3%2Fpic_1639730260_4ed337836b6ffe5f03206d36bbd04a43.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F5%2Ff%2F5%2Ff%2Fpic_1639730271_75f5f9bd89f77b7205f0efe6b72ac247.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F0%2F1%2F2%2Fa%2Fpic_1639730264_4012a948ff80536ea444f2aac6b8ba39.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2Fb%2F5%2F1%2F1%2Fpic_1639730274_db5111d0d02544ecd9361dc31a166bce.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F2%2F5%2Fc%2Fb%2Fpic_1639731724_e25cb5609cd129b543406f19b2566dba.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F5%2F6%2Fe%2F5%2Fpic_1639731731_b56e5f0345e04c3ebd5a42133534c984.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fb%2F6%2Fd%2F9%2Fpic_1639731713_bb6d9fe3be73bdcc3bd1d5b1ab0df052.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2F7%2F7%2F8%2F4%2Fpic_1524837195_77784c552fd68f0b31012a6e54051441.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F4%2Fe%2F4%2F2%2Fpic_1524837190_34e420da86ebeda46946af244f5668ea.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2Ff%2F1%2F9%2F7%2Fpic_1639731795_6f197fed9cba2b1632bf4a61d31ede93.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fd%2F8%2F0%2F7%2Fpic_1639734886_5d807d91f2ef1c49b7457a88aeaab553.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2Fb%2Fc%2F0%2F0%2Fpic_1639731805_0bc0091a1aeaef4c13bc706c8edd3a87.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F3%2Fe%2F1%2F5%2Fpic_1524744075_e3e151d776ba7fa1c632b6f82b5e956f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F0%2F0%2F4%2Ff%2Fpic_1639732518_b004f0f339e0791a1329855da7978b3e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2Fe%2Ff%2Ff%2F6%2Fpic_1639732511_deff6de76b395093919146fcc73965f1.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2F2%2F4%2Fc%2F1%2Fpic_1524837199_a24c18f6b5e30c9b874c30851389dc46.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2Ff%2F5%2Fe%2F6%2Fpic_1524837194_7f5e6891c25cf67b7e673debad8ec9c4.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2Fb%2F7%2F4%2F9%2Fpic_1639734889_0b749f6caa5a46c9e3c20c4a17111f83.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F6%2F3%2Fc%2F9%2Fpic_1639732522_163c94384edb5e00ef3a1cf54455e4ba.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F3%2Fd%2Fb%2Fa%2Fpic_1639732532_33dba125671f03fc7fcb4fa4fb943953.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Die Fledermaus",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 13 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17930220,
+      "IdEventCluster": 1387126,
+      "IdEventType": 1,
+      "DetailLink": "\/de_DE\/calendar\/weihnachtskonzert-in-dulci-jubilo.17930220",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Einzeltermin",
+      "DateFrom": "2025-12-21 20:00:00",
+      "DateTo": "2025-12-21 20:00:00",
+      "DateTime4Overview": "So. 21.12.2025 - 20:00",
+      "DateTime": "21. Dezember 2025 | 20:00",
+      "DateFromTo": null,
+      "Title": "Weihnachtskonzert: \u201eIn dulci jubilo\u201c",
+      "ContentCategory": "",
+      "FormalCategory": "Classical Music",
+      "isToday": null,
+      "DateDay": "21",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Sonntag",
+      "Duration": 5400,
+      "DurationTime": "01:30 h",
+      "City": "Berlin ",
+      "Location": "Apostel-Paulus-Kirche",
+      "LocationPicture": null,
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.35301,
+      "Latitude": 52.48975,
+      "Keywords": "Konzert02; judo; kinderchor-kalender",
+      "Status": null,
+      "Description": "Innehalten und besinnen: nehmen Sie sich f\u00fcr einen Moment eine Auszeit vom Weihnachtstrubel! Dieses Jahr wird Sie zum traditionellen Adventskonzert am 4. Adventssonntag, den 21. Dezember um 20 Uhr, ein absolutes Highlight in einer der sch\u00f6nsten Kirchen Berlins verzaubern: \u201eIn dulci jubilo\u201c \u2013 in s\u00fc\u00dfem Jubel \u2013 erklingen Weihnachtliche Ch\u00f6re aus H\u00e4ndels \u201eMessias\u201c, die Streicherserenade op. 20 von Edward Elgar, Marco Mihevc \u201eStern am Himmel\u201c und Werke von Michael Praetorius, Johann Sebastian Bach und Johannes Brahms. Die Kammersymphonie Berlin unterst\u00fctzt den Jungen Chor und den Kinderchor der Deutschen Oper zum allj\u00e4hrlich wiederkehrenden musikalischen Fest f\u00fcr die ganze Familie. Erleben Sie in der Berliner Apostel-Paulus-Kirche eine wunderbare Einstimmung auf das Weihnachtsfest!",
+      "OpusInfo": "Apostel-Paulus-Kirche \nGrunewaldstra\u00dfe 77a\n10823 Berlin-Sch\u00f6neberg",
+      "OpusInfoShort": "Gemeinsames Konzert des Kinderchores und des Jungen Chores der Deutschen Oper Berlin mit der Kammersymphonie Berlin",
+      "PriceUrl": "https:\/\/www.eventim.de\/artist\/kammersymphonie-berlin\/in-dulci-jubilo-adventskonzert-3983390\/?affiliate=GMD",
+      "PriceValueMinMax": "17,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/3\/8\/b\/b\/8\/pic_1667922405_38bb8c3757999380e1f746ed515e6b6f.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F8%2Fb%2Fb%2F8%2Fpic_1667922405_38bb8c3757999380e1f746ed515e6b6f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F4%2F2%2Fe%2Fd%2Fpic_1667922409_c42ed0b17f691826c7fb179b868a2846.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Kinder- und Jugendchor der Deutschen Oper Berlin",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "right",
+      "HideLocation": false,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "Zu Gast in der Apostel-Paulus-Kirche",
+      "AgeIndication": null,
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17862479,
+      "IdEventCluster": 1377421,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/kinder-tanzen-der-nussknacker.17862479",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-06 11:00:00",
+      "DateTo": "2025-12-27 11:00:00",
+      "DateTime4Overview": "Mo. 22.12.2025 - 11:00",
+      "DateTime": "22. Dezember 2025 | 11:00",
+      "DateFromTo": "06.12.2025 - 27.12.2025",
+      "Title": "Kinder tanzen \u2013 Der Nussknacker",
+      "ContentCategory": "Ballett",
+      "FormalCategory": "Kinder \/ Jugend",
+      "isToday": null,
+      "DateDay": "22",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Montag",
+      "Duration": 3600,
+      "DurationTime": "01:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "nichtclassiccard;Repertoire-25\/26; dob_Kinderkalender; judo; nicht_mitarbeiterformular; nicht_gruppenformular; nicht_mitwirkendenformular",
+      "Status": "Familienvorstellung",
+      "Description": "Es ist Weihnachtsabend. Nach der Bescherung und den wundersch\u00f6nen Feierlichkeiten f\u00e4llt die kleine Klara im Weihnachtszimmer in einen tiefen Schlaf. Sie tr\u00e4umt von einer fantastischen Reise in das m\u00e4rchenhafte Zuckerland, auf der sie vom Nussknacker, ihrem sch\u00f6nsten Geschenk, begleitet wird.\n\nGenauso wie Pjotr I. Tschaikowskijs ber\u00fchmte Ballettmusik greift auch die Inszenierung der \u201eKinder Ballett Kompagnie Berlin\u201c wesentliche Motive aus E. T. A. Hoffmanns M\u00e4rchen \u201eNussknacker und Mausek\u00f6nig\u201c auf: Bevor die Reise des kleinen M\u00e4dchens losgeht, kommt es zum Kampf zwischen M\u00e4usen und Spielzeugsoldaten. Als der Nussknacker schlie\u00dflich zum lebensgro\u00dfen Prinzen wird und Klara in das Land ihrer Tr\u00e4ume begleitet, erlebt das M\u00e4dchen, wie es ist, gro\u00df zu werden und dass Tr\u00e4ume sich erf\u00fcllen k\u00f6nnen, wenn man sie nur ernst genug nimmt. Und schlie\u00dflich gibt es ein gro\u00dfes Fest \u2026\n\nDie Inszenierung von David Simic verspricht eine herrliche Einstimmung auf die Weihnachtszeit. Pjotr I. Tschaikowskijs ber\u00fchmte Musik ist f\u00fcr viele unmittelbar mit dem Weihnachtserlebnis verbunden und entf\u00fchrt in eine nostalgische Welt, in der tanzende Schneeflocken, ein Weihnachtsbaum und die Freude an einem ganz besonderen Gef\u00fchl zu traumgleichem Ausdruck kommen.\n\nEs tanzen die Sch\u00fclerinnen und Sch\u00fcler der Kinder Ballett Kompanie Berlin. Die Auff\u00fchrung richtet sich an Kinder und ihre Eltern. \n",
+      "OpusInfo": "Musik vom Tonband",
+      "OpusInfoShort": "Ballett f\u00fcr Kinder ab 4 Jahren mit Musik von Pjotr I. Tschaikowskij",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11879&language=de",
+      "PriceValueMinMax": "\u20ac 25,00 \/ erm\u00e4\u00dfigt \u20ac 10,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/c\/2\/5\/6\/a\/pic_1558703063_c256ae7c10666b5e58bb9d838be09952.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F2%2F5%2F6%2Fa%2Fpic_1558703063_c256ae7c10666b5e58bb9d838be09952.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F1%2F9%2Fb%2F2%2Fpic_1558703035_319b2a6ce4dd11438f489c40371b5d04.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F0%2F1%2F5%2F8%2Fpic_1558703040_801583f01d2e73a0f8459646543aac60.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F2%2F8%2Ff%2F7%2Fa%2Fpic_1558703045_28f7ac506146fca660e2cff026df4ebf.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2F2%2F6%2F5%2F4%2Fpic_1558703056_02654fd15358840f5e6636d336b3cbe9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F7%2F0%2Ff%2F9%2Fpic_1558703060_570f9dfa182259b2204b48903b18e490.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F3%2F2%2F1%2Fd%2Fpic_1558703067_8321dfcc4280db07eacb3f8f9a6cbd6e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fa%2F0%2Fc%2F4%2Fpic_1558703071_ea0c477cd0c2fd2fca9c7b4d25a9f9c0.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F5%2F4%2Ff%2F0%2Fpic_1558703074_154f05f10d71af10b6d3f2152b4c3e1e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2Fd%2Fa%2F8%2F0%2Fpic_1558703085_ada803cafd707226a7a037439c20ad91.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F8%2F9%2Fb%2F8%2Fpic_1558703089_689b8674d08392263c23350900443abb.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F2%2Ff%2F4%2F1%2Fpic_1558703093_82f41a1025c68fe0374d841dcffc8122.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F9%2F0%2Ff%2Fa%2Fpic_1558703097_590facad85c24e58691daf771c3b42b5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Ff%2F6%2F2%2Fc%2Fpic_1558703101_3f62ce7d7d1a0e6bc7ab39a8670b021c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2F0%2F6%2F8%2F8%2Fpic_1558703107_00688d83f5421497532f2172c3a1b313.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Kinder tanzen: Der Nussknacker",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 4 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823026,
+      "IdEventCluster": 1369999,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/il-barbiere-di-siviglia.17823026",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-22 18:00:00",
+      "DateTo": "2026-03-27 19:30:00",
+      "DateTime4Overview": "Mo. 22.12.2025 - 18:00",
+      "DateTime": "22. Dezember 2025 | 18:00",
+      "DateFromTo": "22.12.2025 - 27.03.2026",
+      "Title": "Il barbiere di Siviglia",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Oper",
+      "isToday": null,
+      "DateDay": "22",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Montag",
+      "Duration": 10800,
+      "DurationTime": "03:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "Repertoire-25\/26; ",
+      "Status": "Repertoire",
+      "Description": "Zum St\u00fcck\nDie Geschichte ist turbulent: Ein alter Griesgram will sein M\u00fcndel heiraten, um an dessen betr\u00e4chtliches Erbe zu gelangen, und trifft dabei jede erdenkliche Vorkehrung, um der h\u00fcbschen Rosina den Weg in die Au\u00dfenwelt \u2013 und damit zu m\u00f6glichen jungen Liebhabern \u2013 zu versperren. Doch l\u00e4ngst hat der Graf Almaviva seine Liebe zu ihr entdeckt. Mit Hilfe des umtriebigen Barbiers Figaro will er dem Alten ein Schnippchen schlagen, Rosina f\u00fcr sich gewinnen und \u00fcberdies noch sicherstellen, dass nicht sein Titel oder Reichtum, sondern allein die Liebe die junge Frau in seine Arme f\u00fchrt. Keine leichte Aufgabe f\u00fcr Figaro, denn auch die Gegner scheuen keine M\u00fche \u2026 Am Ende siegt die Liebe, und es stellt sich heraus, dass alle Vorsicht nutzlos war!\n\nPierre Augustin Caron de Beaumarchais [1732 \u20131799] erfand die Figur des ebenso intriganten wie gewitzten Barbiers und widmete ihm eine ganze Kom\u00f6dien-Trilogie, von denen vor allem die ersten beiden Teile LE BARBIER DE S\u00c9VILLE OU LA PR\u00c9CAUTION INUTILE [1775] und LA FOLLE JOURN\u00c9E OU LE MARIAGE DE FIGARO [1778] weltber\u00fchmt wurden. Der dritte Teil, L\u2019AUTRE TARTUFFE OU LA M\u00c8RE COUPABLE, der 1792 erschien, trat hinter den Erfolg ihrer Vorg\u00e4nger, vielleicht bedingt durch die Wirren der Franz\u00f6sischen Revolution, eher zur\u00fcck. Obwohl das revolution\u00e4re Potenzial vor allem des zweiten Teils der Kom\u00f6die in der genialen Vertonung Mozarts [DIE HOCHZEIT DES FIGARO, 1786] am deutlichsten sp\u00fcrbar wird, besitzt auch der Barbier des ersten Teils viel respektloses Temperament, das ihn zur Hauptfigur einer komischen Oper geradezu pr\u00e4destiniert. Giovanni Paisiello hatte 1782 mit seiner Vertonung des BARBIERE einen durchschlagenden Erfolg, so dass Rossini gegen ein scheinbar \u00fcberm\u00e4chtiges Vorbild antrat, als er beschloss, denselben Stoff erneut zum Gegenstand einer komischen Oper zu machen. Und doch gelang ihm 34 Jahre nach Paisiellos Triumph die vielleicht witzigste und temporeichste Opera buffa der Operngeschichte.\n\n\nZur Inszenierung\nKatharina Thalbach ...",
+      "OpusInfo": "[Der Barbier von Sevilla]\nMelodramma buffo in zwei Akten\nLibretto von Cesare Sterbini nach dem Schauspiel von Pierre Augustin Caron de Beaumarchais\nUrauff\u00fchrung am 20. Februar 1816 in Rom\nPremiere an der Deutschen Oper Berlin am 29. November 2009\n",
+      "OpusInfoShort": "Gioacchino Rossini [1792 \u2013 1868]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11649&language=de",
+      "PriceValueMinMax": "B-Preise: \u20ac 92,00 \/ 72,00 \/ 52,00 \/ 32,00 \/ 24,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/b\/b\/2\/9\/1\/pic_1641118403_bb29138e9c0791f2a12de178bd4f4ffb.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fb%2F2%2F9%2F1%2Fpic_1641118403_bb29138e9c0791f2a12de178bd4f4ffb.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2Ff%2Ff%2Fd%2Fc%2Fpic_1672404149_8ffdcf7f7a1121c3fc48fe4b8c133fc2.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2Fa%2Fc%2F7%2Fd%2Fpic_1641118169_cac7dfc0e2a6b773cf1e6c96c4e1d565.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2Fb%2F1%2F9%2Fd%2Fpic_1641118173_7b19dc008a4688f84dfe535d4b6cb954.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Ff%2F2%2F7%2Ff%2Fpic_1641118180_bf27f46c2d73e947aca5607b84afb215.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F3%2Fa%2F2%2F2%2Fpic_1641118184_53a2220f25425e1dd2ca7b11090dfc2f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F4%2F0%2F0%2F9%2Fpic_1641118188_b40098ae314ef4fb18e4c317fa846261.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2Ff%2F9%2F6%2Fb%2Fpic_1641118195_0f96b97d7928c491dd6943d8e953393c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F0%2F3%2F3%2F7%2Fpic_1641118203_80337150b7a2ba1e34817b4b36143a4d.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F9%2F2%2F9%2Ff%2Ff%2Fpic_1641118207_929ff0d5ae495e24172dd448e393a759.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2Fa%2Fa%2Fa%2F6%2Fpic_1641118210_8aaa68103e8fb84b4c5c86894d153bb5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F1%2F7%2F0%2F3%2Fpic_1641118324_f1703da29c65a686ca154c4a37ee54f9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F8%2Fb%2F2%2Fd%2Fpic_1641118340_d8b2dda4f5bd23b594965436a6c31f8b.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fe%2Fb%2Fd%2F1%2Fpic_1641118344_5ebd184147e9f0d325ffae287eb4109c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fd%2Ff%2F2%2F3%2Fpic_1641118348_bdf23c0bab3a5c0d4fe0acd4b97a2fd5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F4%2F2%2F5%2Fa%2Fec_6425ab1636a4a5f4c37c3b18a702a529.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Fb%2F7%2F5%2F2%2Fpic_1641118355_3b75256293e6a84e486c730fbefb55c5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F4%2F3%2F9%2F2%2Fpic_1641118363_44392f4463ade50d5dcf99f0d4ccd05e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F2%2Fa%2F0%2Fc%2Fpic_1641118367_d2a0c0132f03fb988b4093c27da9e543.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fb%2Ff%2F9%2Ff%2Fpic_1641118374_4bf9fabf248fc5e1e7b48f265639a700.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F9%2Fc%2F4%2Fa%2Fpic_1641118399_59c4a2dbf1b507f4a9a080036aed88a2.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F2%2F7%2F7%2Fa%2Fpic_1641118406_1277aa1cc77de528a757e703c8d86afd.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F5%2F9%2Ff%2F1%2Fpic_1641118410_559f1e5b0081374c9c9070baffef0fee.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Il barbiere di Siviglia",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 12 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823002,
+      "IdEventCluster": 1369983,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/haensel-und-gretel.17823002",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-11 18:00:00",
+      "DateTo": "2026-01-02 17:00:00",
+      "DateTime4Overview": "Di. 23.12.2025 - 14:00",
+      "DateTime": "23. Dezember 2025 | 14:00",
+      "DateFromTo": "11.12.2025 - 02.01.2026",
+      "Title": "H\u00e4nsel und Gretel",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Kinder \/ Jugend",
+      "isToday": null,
+      "DateDay": "23",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Dienstag",
+      "Duration": 8100,
+      "DurationTime": "02:15 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "operntage; judo; nicht_gruppenformular; nicht_mitarbeiterformular",
+      "Status": "Familienvorstellung, Operntag",
+      "Description": "Zum St\u00fcck\nH\u00e4nsel und Gretel sind die Kinder eines armen Besenbinders und seiner Frau. Als sie eines Tages \u00fcberm\u00fctig spielen, anstatt ihre Arbeit zu erledigen, werden sie von der Mutter zur Strafe in den Wald geschickt, um Beeren zu sammeln. Kurz darauf kommt der Vater nach einem erfolgreichen Tag vergn\u00fcgt und mit einem Korb voller leckerer Sachen heim. Er macht seiner Frau Vorw\u00fcrfe, denn im Wald treibt eine gef\u00e4hrliche Hexe ihr Unwesen. Die Eltern machen sich auf die Suche nach ihren Kindern. Inzwischen haben H\u00e4nsel und Gretel ihre K\u00f6rbchen gef\u00fcllt, aber vor lauter Hunger alle Beeren selbst verspeist. Als sie neue suchen wollen, merken sie, dass es bereits dunkel geworden ist. Sie haben sich im Wald verirrt. Sie beschlie\u00dfen, sich schlafen zu legen und sprechen ihr Abendgebet. Im Traum erleben sie wunderbare Dinge. Am n\u00e4chsten Morgen finden sie sich vor einem seltsamen Haus aus Lebkuchen und Zuckerzeug wieder. Als sie davon naschen wollen, erscheint pl\u00f6tzlich die Hexe und nimmt sie gefangen. H\u00e4nsel soll im Ofen gebraten werden, doch durch eine List gelingt es den Kindern, stattdessen die Hexe in den Ofen zu sto\u00dfen. Im selben Augenblick weicht der Zauber, und all die vielen Kinder, die schon vorher durch die Hexe in Lebkuchen verwandelt wurden, erhalten ihre Gestalt wieder und werden befreit. Als dann auch die Eltern erscheinen, ist die Familie endlich wieder vereint. Gl\u00fccklich gehen sie nach Hause.\n\nSeit \u00fcber 100 Jahren geh\u00f6rt Engelbert Humperdincks H\u00c4NSEL UND GRETEL zu den beliebtesten Opern f\u00fcr die ganze Familie. Humperdinck hatte der Versuchung nicht widerstehen k\u00f6nnen, das Werk mit seinen eing\u00e4ngigen Melodien und der nicht nur f\u00fcr Kinder dramatischen Geschichte in ein zweist\u00fcndiges sinfonisches Meisterwerk zu verwandeln. Es wurde in \u00fcber zwanzig Sprachen \u00fcbersetzt und bedeutet auch heute noch f\u00fcr viele Kinder die erste Begegnung mit der Welt der Oper. Musikalisch verbirgt das anspruchsvolle Werk seine N\u00e4he zu Wagner nicht, vermag aber auch unge\u00fcbtere Ohren in seinen ...",
+      "OpusInfo": "M\u00e4rchenspiel in drei Bildern\nLibretto von Adelheid Wette\nUrauff\u00fchrung am 23. Dezember 1893 in Weimar\nPremiere an der Deutschen Oper Berlin am 13. Dezember 1997\n\n",
+      "OpusInfoShort": "Engelbert Humperdinck [1854 \u2013 1921]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11643&language=de",
+      "PriceValueMinMax": "Operntag: \u20ac 34,00 \/ erm\u00e4\u00dfigt \u20ac 10,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/1\/1\/7\/e\/ec_5117e6d07887c81810340f66f3a8aae8.jpg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F1%2F1%2F7%2Fe%2Fec_5117e6d07887c81810340f66f3a8aae8.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fe%2F3%2F3%2Fc%2Fpic_1656424506_be33cf6c31432b799c7bfb7879c7445c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F3%2F2%2Fa%2F3%2Fpic_1589799684_c32a3ef18865f7bc2151c0325258e607.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F3%2Fd%2F4%2Fec_d63d49a98fc53e1e6bf3df45750496cd.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fa%2F1%2F5%2Fc%2Fec_ea15c889bbc578c3b0e49be12b0913c3.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F9%2F6%2Fb%2Fb%2Fec_196bb2478f344441f59ce97e89b6f6e7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2Fb%2F5%2F7%2F0%2Fec_7b570b6bd9f1cff48e0c77f9498b81b7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2Fc%2F4%2F4%2F1%2Fec_ac441eb9853b42b45cfb260975895ec7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2Fa%2F6%2F3%2F7%2Fec_8a637dcca5eabd48e641c6564ff43ccc.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F8%2Fe%2F5%2Fe%2Fec_38e5e0973685a44ecb6178da6d3a80f8.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F4%2F2%2Fb%2Fb%2Fec_642bb9a1c4c6a66d8521a26eec161422.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F6%2F7%2F1%2F2%2Fec_667126a04a35f55e0289846fabb5591b.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F7%2F0%2Fa%2F6%2Fec_f70a671b0ef45d6c15cd6a7da99c596d.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F0%2F3%2F2%2F4%2Fec_403246ce128cbf6d18e93cc9733c94ef.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F8%2Ff%2Fc%2F8%2Fec_f8fc88e075fb48c4e8fe9a3a81c60dbc.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F2%2F1%2F2%2Fc%2Fec_b212c873ab3ed96cc9f0570661c543f3.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2F6%2F9%2F0%2Fec_d06901e71c9e0bce7093faaec73c2bd9.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F2%2Ff%2F2%2Fb%2Fec_62f2bc035d65e84a90183ae83b94b296.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2F6%2Fe%2F7%2F9%2Fec_06e798f0cc27002e790eb51c6d8f97df.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fd%2F0%2F8%2F4%2Fec_5d084d2b2bcdd14bf38b2a5907f4d39d.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F9%2Fb%2F4%2F6%2Fec_c9b46506baa90da1e961cc9a58f442fb.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F7%2F1%2F0%2Fa%2Fec_e710ad4f382b0c30c851ab7494f886ed.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2Fa%2F5%2Fd%2F7%2Fec_1a5d702d94fc7b286ce87557c52f021e.jpg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "H\u00e4nsel und Gretel",
+      "PictureCopyright": "2014",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "Operntag",
+      "AgeIndication": "empfohlen ab 8 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823003,
+      "IdEventCluster": 1369983,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/haensel-und-gretel.17823003",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-11 18:00:00",
+      "DateTo": "2026-01-02 17:00:00",
+      "DateTime4Overview": "Di. 23.12.2025 - 18:00",
+      "DateTime": "23. Dezember 2025 | 18:00",
+      "DateFromTo": "11.12.2025 - 02.01.2026",
+      "Title": "H\u00e4nsel und Gretel",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Kinder \/ Jugend",
+      "isToday": null,
+      "DateDay": "23",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Dienstag",
+      "Duration": 8100,
+      "DurationTime": "02:15 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "operntage; judo; nicht_gruppenformular; nicht_mitarbeiterformular",
+      "Status": "Operntag, Familienvorstellung",
+      "Description": "Zum St\u00fcck\nH\u00e4nsel und Gretel sind die Kinder eines armen Besenbinders und seiner Frau. Als sie eines Tages \u00fcberm\u00fctig spielen, anstatt ihre Arbeit zu erledigen, werden sie von der Mutter zur Strafe in den Wald geschickt, um Beeren zu sammeln. Kurz darauf kommt der Vater nach einem erfolgreichen Tag vergn\u00fcgt und mit einem Korb voller leckerer Sachen heim. Er macht seiner Frau Vorw\u00fcrfe, denn im Wald treibt eine gef\u00e4hrliche Hexe ihr Unwesen. Die Eltern machen sich auf die Suche nach ihren Kindern. Inzwischen haben H\u00e4nsel und Gretel ihre K\u00f6rbchen gef\u00fcllt, aber vor lauter Hunger alle Beeren selbst verspeist. Als sie neue suchen wollen, merken sie, dass es bereits dunkel geworden ist. Sie haben sich im Wald verirrt. Sie beschlie\u00dfen, sich schlafen zu legen und sprechen ihr Abendgebet. Im Traum erleben sie wunderbare Dinge. Am n\u00e4chsten Morgen finden sie sich vor einem seltsamen Haus aus Lebkuchen und Zuckerzeug wieder. Als sie davon naschen wollen, erscheint pl\u00f6tzlich die Hexe und nimmt sie gefangen. H\u00e4nsel soll im Ofen gebraten werden, doch durch eine List gelingt es den Kindern, stattdessen die Hexe in den Ofen zu sto\u00dfen. Im selben Augenblick weicht der Zauber, und all die vielen Kinder, die schon vorher durch die Hexe in Lebkuchen verwandelt wurden, erhalten ihre Gestalt wieder und werden befreit. Als dann auch die Eltern erscheinen, ist die Familie endlich wieder vereint. Gl\u00fccklich gehen sie nach Hause.\n\nSeit \u00fcber 100 Jahren geh\u00f6rt Engelbert Humperdincks H\u00c4NSEL UND GRETEL zu den beliebtesten Opern f\u00fcr die ganze Familie. Humperdinck hatte der Versuchung nicht widerstehen k\u00f6nnen, das Werk mit seinen eing\u00e4ngigen Melodien und der nicht nur f\u00fcr Kinder dramatischen Geschichte in ein zweist\u00fcndiges sinfonisches Meisterwerk zu verwandeln. Es wurde in \u00fcber zwanzig Sprachen \u00fcbersetzt und bedeutet auch heute noch f\u00fcr viele Kinder die erste Begegnung mit der Welt der Oper. Musikalisch verbirgt das anspruchsvolle Werk seine N\u00e4he zu Wagner nicht, vermag aber auch unge\u00fcbtere Ohren in seinen ...",
+      "OpusInfo": "M\u00e4rchenspiel in drei Bildern\nLibretto von Adelheid Wette\nUrauff\u00fchrung am 23. Dezember 1893 in Weimar\nPremiere an der Deutschen Oper Berlin am 13. Dezember 1997\n\n",
+      "OpusInfoShort": "Engelbert Humperdinck [1854 \u2013 1921]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11644&language=de",
+      "PriceValueMinMax": "Operntag: \u20ac 34,00 \/ erm\u00e4\u00dfigt \u20ac 10,00",
+      "PictureUri": "https:\/\/img.culturebase.org\/5\/1\/1\/7\/e\/ec_5117e6d07887c81810340f66f3a8aae8.jpg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F1%2F1%2F7%2Fe%2Fec_5117e6d07887c81810340f66f3a8aae8.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fe%2F3%2F3%2Fc%2Fpic_1656424506_be33cf6c31432b799c7bfb7879c7445c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F3%2F2%2Fa%2F3%2Fpic_1589799684_c32a3ef18865f7bc2151c0325258e607.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F6%2F3%2Fd%2F4%2Fec_d63d49a98fc53e1e6bf3df45750496cd.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2Fa%2F1%2F5%2Fc%2Fec_ea15c889bbc578c3b0e49be12b0913c3.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F9%2F6%2Fb%2Fb%2Fec_196bb2478f344441f59ce97e89b6f6e7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2Fb%2F5%2F7%2F0%2Fec_7b570b6bd9f1cff48e0c77f9498b81b7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fa%2Fc%2F4%2F4%2F1%2Fec_ac441eb9853b42b45cfb260975895ec7.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2Fa%2F6%2F3%2F7%2Fec_8a637dcca5eabd48e641c6564ff43ccc.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2F8%2Fe%2F5%2Fe%2Fec_38e5e0973685a44ecb6178da6d3a80f8.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F4%2F2%2Fb%2Fb%2Fec_642bb9a1c4c6a66d8521a26eec161422.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F6%2F7%2F1%2F2%2Fec_667126a04a35f55e0289846fabb5591b.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F7%2F0%2Fa%2F6%2Fec_f70a671b0ef45d6c15cd6a7da99c596d.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F0%2F3%2F2%2F4%2Fec_403246ce128cbf6d18e93cc9733c94ef.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F8%2Ff%2Fc%2F8%2Fec_f8fc88e075fb48c4e8fe9a3a81c60dbc.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F2%2F1%2F2%2Fc%2Fec_b212c873ab3ed96cc9f0570661c543f3.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F0%2F6%2F9%2F0%2Fec_d06901e71c9e0bce7093faaec73c2bd9.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F2%2Ff%2F2%2Fb%2Fec_62f2bc035d65e84a90183ae83b94b296.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2F6%2Fe%2F7%2F9%2Fec_06e798f0cc27002e790eb51c6d8f97df.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fd%2F0%2F8%2F4%2Fec_5d084d2b2bcdd14bf38b2a5907f4d39d.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2F9%2Fb%2F4%2F6%2Fec_c9b46506baa90da1e961cc9a58f442fb.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fe%2F7%2F1%2F0%2Fa%2Fec_e710ad4f382b0c30c851ab7494f886ed.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2Fa%2F5%2Fd%2F7%2Fec_1a5d702d94fc7b286ce87557c52f021e.jpg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "H\u00e4nsel und Gretel",
+      "PictureCopyright": "2014",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "Operntag",
+      "AgeIndication": "empfohlen ab 8 Jahren",
+      "MlTime": "Uhr"
+    },
+    {
+      "IdEventDate": 17823028,
+      "IdEventCluster": 1369999,
+      "IdEventType": 3,
+      "DetailLink": "\/de_DE\/calendar\/il-barbiere-di-siviglia.17823028",
+      "PublishedType": "publiziert, nicht archiviert",
+      "EventType": "Terminserie",
+      "DateFrom": "2025-12-22 18:00:00",
+      "DateTo": "2026-03-27 19:30:00",
+      "DateTime4Overview": "Do. 25.12.2025 - 17:00",
+      "DateTime": "25. Dezember 2025 | 17:00",
+      "DateFromTo": "22.12.2025 - 27.03.2026",
+      "Title": "Il barbiere di Siviglia",
+      "ContentCategory": "Oper",
+      "FormalCategory": "Oper",
+      "isToday": null,
+      "DateDay": "25",
+      "DateMonth": "12",
+      "DateYear": "2025",
+      "DateMonthName": "Dezember",
+      "DayName": "Donnerstag",
+      "Duration": 10800,
+      "DurationTime": "03:00 h",
+      "City": "Berlin ",
+      "Location": "Deutsche Oper Berlin",
+      "LocationPicture": "https:\/\/img.culturebase.org\/e\/b\/a\/4\/5\/ec_eba45926255735eaeb2fc375dc7a69a6.jpg",
+      "OrganizerName": null,
+      "OrganizerPicture": null,
+      "Longitude": 13.30874,
+      "Latitude": 52.51184,
+      "Keywords": "Repertoire-25\/26; ",
+      "Status": "Repertoire",
+      "Description": "Zum St\u00fcck\nDie Geschichte ist turbulent: Ein alter Griesgram will sein M\u00fcndel heiraten, um an dessen betr\u00e4chtliches Erbe zu gelangen, und trifft dabei jede erdenkliche Vorkehrung, um der h\u00fcbschen Rosina den Weg in die Au\u00dfenwelt \u2013 und damit zu m\u00f6glichen jungen Liebhabern \u2013 zu versperren. Doch l\u00e4ngst hat der Graf Almaviva seine Liebe zu ihr entdeckt. Mit Hilfe des umtriebigen Barbiers Figaro will er dem Alten ein Schnippchen schlagen, Rosina f\u00fcr sich gewinnen und \u00fcberdies noch sicherstellen, dass nicht sein Titel oder Reichtum, sondern allein die Liebe die junge Frau in seine Arme f\u00fchrt. Keine leichte Aufgabe f\u00fcr Figaro, denn auch die Gegner scheuen keine M\u00fche \u2026 Am Ende siegt die Liebe, und es stellt sich heraus, dass alle Vorsicht nutzlos war!\n\nPierre Augustin Caron de Beaumarchais [1732 \u20131799] erfand die Figur des ebenso intriganten wie gewitzten Barbiers und widmete ihm eine ganze Kom\u00f6dien-Trilogie, von denen vor allem die ersten beiden Teile LE BARBIER DE S\u00c9VILLE OU LA PR\u00c9CAUTION INUTILE [1775] und LA FOLLE JOURN\u00c9E OU LE MARIAGE DE FIGARO [1778] weltber\u00fchmt wurden. Der dritte Teil, L\u2019AUTRE TARTUFFE OU LA M\u00c8RE COUPABLE, der 1792 erschien, trat hinter den Erfolg ihrer Vorg\u00e4nger, vielleicht bedingt durch die Wirren der Franz\u00f6sischen Revolution, eher zur\u00fcck. Obwohl das revolution\u00e4re Potenzial vor allem des zweiten Teils der Kom\u00f6die in der genialen Vertonung Mozarts [DIE HOCHZEIT DES FIGARO, 1786] am deutlichsten sp\u00fcrbar wird, besitzt auch der Barbier des ersten Teils viel respektloses Temperament, das ihn zur Hauptfigur einer komischen Oper geradezu pr\u00e4destiniert. Giovanni Paisiello hatte 1782 mit seiner Vertonung des BARBIERE einen durchschlagenden Erfolg, so dass Rossini gegen ein scheinbar \u00fcberm\u00e4chtiges Vorbild antrat, als er beschloss, denselben Stoff erneut zum Gegenstand einer komischen Oper zu machen. Und doch gelang ihm 34 Jahre nach Paisiellos Triumph die vielleicht witzigste und temporeichste Opera buffa der Operngeschichte.\n\n\nZur Inszenierung\nKatharina Thalbach ...",
+      "OpusInfo": "[Der Barbier von Sevilla]\nMelodramma buffo in zwei Akten\nLibretto von Cesare Sterbini nach dem Schauspiel von Pierre Augustin Caron de Beaumarchais\nUrauff\u00fchrung am 20. Februar 1816 in Rom\nPremiere an der Deutschen Oper Berlin am 29. November 2009\n",
+      "OpusInfoShort": "Gioacchino Rossini [1792 \u2013 1868]",
+      "PriceUrl": "https:\/\/tickets.deutscheoperberlin.de\/webshop\/webticket\/shop?event=11651&language=de",
+      "PriceValueMinMax": "C-Preise: \u20ac 108,00 \/ 90,00 \/ 64,00 \/ 40,00 \/ 26,00 ",
+      "PictureUri": "https:\/\/img.culturebase.org\/b\/b\/2\/9\/1\/pic_1641118403_bb29138e9c0791f2a12de178bd4f4ffb.jpeg",
+      "Pictures": [
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fb%2F2%2F9%2F1%2Fpic_1641118403_bb29138e9c0791f2a12de178bd4f4ffb.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2Ff%2Ff%2Fd%2Fc%2Fpic_1672404149_8ffdcf7f7a1121c3fc48fe4b8c133fc2.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fc%2Fa%2Fc%2F7%2Fd%2Fpic_1641118169_cac7dfc0e2a6b773cf1e6c96c4e1d565.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F7%2Fb%2F1%2F9%2Fd%2Fpic_1641118173_7b19dc008a4688f84dfe535d4b6cb954.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Ff%2F2%2F7%2Ff%2Fpic_1641118180_bf27f46c2d73e947aca5607b84afb215.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F3%2Fa%2F2%2F2%2Fpic_1641118184_53a2220f25425e1dd2ca7b11090dfc2f.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F4%2F0%2F0%2F9%2Fpic_1641118188_b40098ae314ef4fb18e4c317fa846261.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F0%2Ff%2F9%2F6%2Fb%2Fpic_1641118195_0f96b97d7928c491dd6943d8e953393c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2F0%2F3%2F3%2F7%2Fpic_1641118203_80337150b7a2ba1e34817b4b36143a4d.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F9%2F2%2F9%2Ff%2Ff%2Fpic_1641118207_929ff0d5ae495e24172dd448e393a759.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F8%2Fa%2Fa%2Fa%2F6%2Fpic_1641118210_8aaa68103e8fb84b4c5c86894d153bb5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Ff%2F1%2F7%2F0%2F3%2Fpic_1641118324_f1703da29c65a686ca154c4a37ee54f9.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F8%2Fb%2F2%2Fd%2Fpic_1641118340_d8b2dda4f5bd23b594965436a6c31f8b.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2Fe%2Fb%2Fd%2F1%2Fpic_1641118344_5ebd184147e9f0d325ffae287eb4109c.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fb%2Fd%2Ff%2F2%2F3%2Fpic_1641118348_bdf23c0bab3a5c0d4fe0acd4b97a2fd5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F6%2F4%2F2%2F5%2Fa%2Fec_6425ab1636a4a5f4c37c3b18a702a529.jpg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F3%2Fb%2F7%2F5%2F2%2Fpic_1641118355_3b75256293e6a84e486c730fbefb55c5.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2F4%2F3%2F9%2F2%2Fpic_1641118363_44392f4463ade50d5dcf99f0d4ccd05e.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2Fd%2F2%2Fa%2F0%2Fc%2Fpic_1641118367_d2a0c0132f03fb988b4093c27da9e543.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F4%2Fb%2Ff%2F9%2Ff%2Fpic_1641118374_4bf9fabf248fc5e1e7b48f265639a700.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F9%2Fc%2F4%2Fa%2Fpic_1641118399_59c4a2dbf1b507f4a9a080036aed88a2.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F1%2F2%2F7%2F7%2Fa%2Fpic_1641118406_1277aa1cc77de528a757e703c8d86afd.jpeg&do=rescaleIn&width=&height=200"
+        },
+        {
+          "Url": "https:\/\/imgtoolkit.culturebase.org?file=https%3A%2F%2Fimg.culturebase.org%2F5%2F5%2F9%2Ff%2F1%2Fpic_1641118410_559f1e5b0081374c9c9070baffef0fee.jpeg&do=rescaleIn&width=&height=200"
+        }
+      ],
+      "PictureTitle": "Il barbiere di Siviglia",
+      "PictureCopyright": "",
+      "Url": "",
+      "IsPublished": 1,
+      "IsArchived": 0,
+      "CreatedBy": 93519,
+      "FlagStatusType": "findet statt",
+      "Position": "left",
+      "HideLocation": true,
+      "BuyTicketText": "Karten kaufen",
+      "Advertising": "",
+      "AgeIndication": "empfohlen ab 12 Jahren",
+      "MlTime": "Uhr"
+    }
+  ],
+  "CityName": null,
+  "RegionName": null
+}

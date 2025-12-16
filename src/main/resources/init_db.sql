@@ -1,27 +1,37 @@
--- Run as a superuser: psql -U postgres -f src/main/resources/init_db.sql
--- psql -U username -d database_name -h hostname -p port
--- psql "postgresql://eventuser:change_me@127.0.0.1:5432/eventdb"
+\if :{?dbname}
+\else
+  \echo 'FATAL: dbname is required (pass via -v dbname=...)'
+  \quit 1
+\endif
 
-\set dbname eventdb
-\set dbuser eventuser
-\set dbpass
+\if :{?dbuser}
+\else
+  \echo 'FATAL: dbuser is required (pass via -v dbuser=...)'
+  \quit 1
+\endif
+
+\if :{?dbpass}
+\else
+  \echo 'FATAL: dbpass is required (pass via -v dbpass=...)'
+  \quit 1
+\endif
+
 \set ON_ERROR_STOP on
 
--- Create database if missing (Postgres 16+)
-create database :"dbname" if not exists;
+select 'create database ' || quote_ident(:'dbname')
+where not exists (select from pg_database where datname = :'dbname')\gexec
 
--- Create app user if missing
 select 'create user ' || quote_ident(:'dbuser') || ' with password ' || quote_literal(:'dbpass')
 where not exists (select from pg_roles where rolname = :'dbuser')\gexec
 
 grant all privileges on database :"dbname" to :"dbuser";
 
--- Switch to target DB
 \connect :"dbname"
 
 create table if not exists events (
     id bigserial primary key,
     title text,
+    city text,
     detail_url text,
     date_time timestamp,
     duration text,
@@ -35,5 +45,4 @@ create table if not exists events (
 
 create index if not exists idx_events_date_time on events(date_time);
 
--- Make the app user own the table
 alter table events owner to :"dbuser";

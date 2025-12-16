@@ -6,6 +6,7 @@ import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
 import com.classic.event.service.RemoteSiteService
 import com.classic.event.service.StaatsOperBerlinEventService
+import com.fasterxml.jackson.databind.ObjectMapper
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
@@ -21,8 +22,7 @@ import utils.loadFile
 import java.io.File
 
 import java.time.LocalDate
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
+
 import kotlin.test.assertTrue
 
 @SpringBootTest
@@ -40,14 +40,37 @@ class EventApplicationTests {
     @Autowired
     private lateinit var staatsOperBerlinEventService: StaatsOperBerlinEventService
 
+    @Autowired
+    private lateinit var objectMapper: ObjectMapper
+
 	@Test
-	fun requestDeutscheOperBerlinEvent() {
+	fun `transformation to event berlin deutsche oper response verification`() {
+        val responseMock = loadFile("mock/berlinDeutscheOper.json")
+        val responseDto = objectMapper.readValue(
+            responseMock,
+            DeutscheOperBerlinEventResponseDto::class.java
+        )
+
+        whenever(
+            remoteSiteService.fetch(
+                any(),
+                any(),
+                any(),
+                any<ParameterizedTypeReference<DeutscheOperBerlinEventResponseDto>>()
+            )
+        ).thenReturn(responseDto)
+
+
         val response: ResponseEntity<DeutscheOperBerlinEventResponseDto> = deutscheOperBerlineventController
             .fetchEvents(
-                LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd.MM.yyyy")),
                 "1"
             )
-        assertTrue((response.body?.events?.size ?: 0) > 1)
+
+        val body = response.body!!
+
+        body.events.forEach { File(getResource("dataBase.txt").file).appendText( it.toString() + "\n") }
+
+        assertTrue((response.body?.events?.size ?: 0) > 0)
 	}
 
     @Test

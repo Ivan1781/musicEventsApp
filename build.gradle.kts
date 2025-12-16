@@ -32,17 +32,12 @@ dependencies {
 	testImplementation("org.springframework.boot:spring-boot-starter-webmvc-test")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
+	testImplementation("org.testcontainers:junit-jupiter:1.20.2")
+	testImplementation("org.testcontainers:postgresql:1.20.2")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-    implementation("org.jsoup:jsoup:1.17.2")
-    implementation("org.mockito.kotlin:mockito-kotlin:6.1.0")
+	implementation("org.jsoup:jsoup:1.17.2")
+	implementation("org.mockito.kotlin:mockito-kotlin:6.1.0")
 }
-
-
-//kotlin {
-//	compilerOptions {
-//		freeCompilerArgs.addAll("-Xjsr305=strict", "-Xannotation-default-target=param-property")
-//	}
-//}
 
 allOpen {
 	annotation("jakarta.persistence.Entity")

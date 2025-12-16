@@ -23,11 +23,13 @@ data class StaatsOperBerlinEventDto(
     val workInfo: String?,
     val duration: String?,
     val ticketUrl: String?,
-    val priceText: String?
+    val priceText: String?,
+    val city: String = "Berlin"
 ) {
     fun toEvent(): EventDto =
         EventDto(
             title = title,
+            city = city,
             detailUrl = detailUrl,
             dateTime = dateTime.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME),
             duration = duration,

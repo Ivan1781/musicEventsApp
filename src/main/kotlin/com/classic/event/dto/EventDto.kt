@@ -1,11 +1,12 @@
 package com.classic.event.dto
 
-import com.classic.event.entity.EventEntity as EventEntity
 import java.time.LocalDateTime
+import com.classic.event.entity.EventEntity as EventEntity
 import java.time.format.DateTimeFormatter
 
 data class EventDto(
     val title: String?,
+    val city: String?,
     val detailUrl: String?,
     val dateTime: String?,
     val duration: String?,
@@ -16,8 +17,9 @@ data class EventDto(
     fun toEntity(): EventEntity =
         EventEntity(
             title = title,
+            city = city,
             detailUrl = detailUrl,
-            dateTime = dateTime?.let { LocalDateTime.parse(it, DateTimeFormatter.ISO_LOCAL_DATE_TIME) },
+            dateTime = LocalDateTime.parse(dateTime.toString()),
             duration = duration,
             location = location,
             price = price,
@@ -28,6 +30,7 @@ data class EventDto(
 fun EventEntity.toDto(): EventDto =
     EventDto(
         title = title,
+        city = city,
         detailUrl = detailUrl,
         dateTime = dateTime?.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME),
         duration = duration,

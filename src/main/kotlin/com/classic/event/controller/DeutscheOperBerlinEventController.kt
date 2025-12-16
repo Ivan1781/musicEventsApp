@@ -1,27 +1,34 @@
 package com.classic.event.controller
 
-import properties.DeutscheOperBerlinProperties
 import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
-import com.classic.event.service.RemoteSiteService
-import org.springframework.core.ParameterizedTypeReference
+import com.classic.event.service.DeutscheOperBerlinEventService
+import com.classic.event.service.EventPersistenceService
 import org.springframework.http.ResponseEntity
-import org.springframework.web.bind.annotation.RequestParam
+import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
 
 @RestController
 class DeutscheOperBerlinEventController(
-    remoteSiteService: RemoteSiteService,
-    properties: DeutscheOperBerlinProperties,
-) : BaseController<DeutscheOperBerlinProperties>(remoteSiteService, properties) {
-    fun fetchEvents(
-        @RequestParam("date") date: String,
-        @RequestParam(name = "p", defaultValue = "1") page: String,
+    private val eventService: DeutscheOperBerlinEventService,
+    private val eventPersistenceService: EventPersistenceService
+) {
+
+    @GetMapping("/eventBerlin")
+    fun persistData() {
+        var page = 1
+        for (a in 0..2) {
+            val response = eventService.fetchEvents(pageNumber = page.toString())
+            val events = eventService.mapToDtos(response)
+            if (events.isNotEmpty()) {
+                eventPersistenceService.saveAllFromDtos(events)
+            }
+            page += 1
+        }
+//         while (response.pager?.isLastPage == false)
+    }
+
+    fun fetchEvents(pageNumber: String = "1"
     ): ResponseEntity<DeutscheOperBerlinEventResponseDto> {
-        val body =
-            fetch(
-                queryParams = mapOf("date" to date, "p" to page),
-                responseType = object : ParameterizedTypeReference<DeutscheOperBerlinEventResponseDto>() {},
-            )
-        return ResponseEntity.ok(body)
+        return ResponseEntity.ok(eventService.fetchEvents(pageNumber = pageNumber))
     }
 }

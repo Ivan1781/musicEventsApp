@@ -15,6 +15,8 @@ data class EventEntity(
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     val id: Long? = null,
 
+    val city: String? = null,
+
     val title: String? = null,
 
     @Column(name = "detail_url")
