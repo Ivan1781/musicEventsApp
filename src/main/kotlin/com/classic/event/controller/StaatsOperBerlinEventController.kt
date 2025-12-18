@@ -23,7 +23,6 @@ class StaatsOperBerlinEventController(
             val response = this.fetchEvents(date)
             val body = response.body!!
             val entities = eventService.mapToEvents(body)
-
             if (entities.isNotEmpty()) {
                 eventPersistenceService.saveAll(entities)
             }

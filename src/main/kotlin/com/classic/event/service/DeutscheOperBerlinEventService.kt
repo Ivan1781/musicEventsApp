@@ -2,12 +2,9 @@ package com.classic.event.service
 
 import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
 import com.classic.event.dto.EventDto
-import com.classic.event.entity.EventEntity
-import com.fasterxml.jackson.databind.ObjectMapper
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 import org.springframework.core.ParameterizedTypeReference
-import org.springframework.http.ResponseEntity
 import org.springframework.stereotype.Service
 import properties.DeutscheOperBerlinProperties
 

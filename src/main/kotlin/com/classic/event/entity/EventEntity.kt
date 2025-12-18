@@ -19,7 +19,7 @@ data class EventEntity(
 
     val title: String? = null,
 
-    @Column(name = "detail_url")
+    @Column(name = "detail_url", unique = true)
     val detailUrl: String? = null,
 
     @Column(name = "date_time")

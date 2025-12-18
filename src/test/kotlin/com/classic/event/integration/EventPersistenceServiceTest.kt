@@ -14,8 +14,8 @@ import org.springframework.test.context.DynamicPropertySource
 import org.testcontainers.containers.PostgreSQLContainer
 import org.testcontainers.junit.jupiter.Container
 import org.testcontainers.junit.jupiter.Testcontainers
+import testUtils.getTestUrl
 import java.time.LocalDateTime
-import java.util.UUID
 
 @Testcontainers
 @SpringBootTest
@@ -39,6 +39,17 @@ class EventPersistenceServiceTest {
             registry.add("spring.datasource.username", postgres::getUsername)
             registry.add("spring.datasource.password", postgres::getPassword)
         }
+
+        val baseEntity = EventEntity(
+            title = "Test event",
+            city = "Norilsk",
+            detailUrl = getTestUrl("https://example.com/events"),
+            dateTime = LocalDateTime.of(2024, 1, 1, 12, 0),
+            duration = "120m",
+            location = "Test venue",
+            price = "20 EUR",
+            ticketUrl = getTestUrl("https://example.com/tickets")
+        )
     }
 
     @Autowired
@@ -49,24 +60,29 @@ class EventPersistenceServiceTest {
 
     @Test
     fun `save event with all fields`() {
-        val entity = EventEntity(
-            title = "Test event",
-            city = "Norilsk",
-            detailUrl = "https://example.com/events/${UUID.randomUUID()}",
-            dateTime = LocalDateTime.of(2024, 1, 1, 12, 0),
-            duration = "120m",
-            location = "Test venue",
-            price = "20 EUR",
-            ticketUrl = "https://example.com/tickets/${UUID.randomUUID()}"
-        )
+        val saved = service.save(baseEntity)
+        val persisted = repository.findById(saved.id!!).orElse(null)
 
-        val saved = service.save(entity)
-        val reloaded = repository.findById(saved.id!!).orElse(null)
+        assertThat(persisted).isNotNull
+        assertThat(persisted?.city).isEqualTo(baseEntity.city)
+        assertThat(persisted?.detailUrl).isEqualTo(baseEntity.detailUrl)
+        assertThat(persisted?.dateTime).isEqualTo(baseEntity.dateTime)
+        assertThat(persisted?.ticketUrl).isEqualTo(baseEntity.ticketUrl)
+    }
 
-        assertThat(reloaded).isNotNull
-        assertThat(reloaded?.city).isEqualTo(entity.city)
-        assertThat(reloaded?.detailUrl).isEqualTo(entity.detailUrl)
-        assertThat(reloaded?.dateTime).isEqualTo(entity.dateTime)
-        assertThat(reloaded?.ticketUrl).isEqualTo(entity.ticketUrl)
+    @Test
+    fun `saveAll with duplicated events`() {
+        val entity = baseEntity.copy(detailUrl = getTestUrl("https://example.com/berlinevents") )
+        val entityList = listOf(entity, entity.copy())
+
+        val saved = service.saveAll(entityList)
+
+        assertThat(saved.size).isEqualTo(1)
+
+        val savedEntity = saved.first()
+        val persisted = repository.findById(savedEntity.id!!)
+
+        assertThat(persisted.get().id).isEqualTo(savedEntity.id)
+        assertThat(persisted.get().detailUrl).isEqualTo(savedEntity.detailUrl)
     }
 }

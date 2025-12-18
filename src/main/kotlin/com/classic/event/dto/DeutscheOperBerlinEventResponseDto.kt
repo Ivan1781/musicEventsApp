@@ -79,7 +79,7 @@ fun EventOverviewDto.toEvent(): EventDto =
     EventDto(
         title = title,
         city = city?.trim()?.takeIf { it.isNotEmpty() } ?: DefaultCities.BERLIN,
-        detailUrl = detailLink,
+        detailUrl = "https://deutscheoperberlin.de" + detailLink,
         dateTime = transformDate(dateTimeForOverview).toString(),
         duration = duration?.toString(),
         location = location,
