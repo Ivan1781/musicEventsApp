@@ -38,6 +38,8 @@ create table if not exists events (
     location text,
     price text,
     ticket_url text,
+    category text,
+    author text,
     created_at timestamp default now(),
     updated_at timestamp default now(),
     constraint uq_events_detail unique (detail_url)

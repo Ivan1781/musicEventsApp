@@ -39,3 +39,8 @@ event:
       status_type: ""
   staatsoper-berlin:
     url: https://www.staatsoper-berlin.de/de/spielplan/_f/%s
+  semper-oper-dresden:
+    url: https://www.semperoper.de/en/whats-on/calendar/calendar
+    type: 1761913461
+    action: loadByScroll
+    mode: after

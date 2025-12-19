@@ -1,5 +1,6 @@
 package com.classic.event.dto
 
+import constants.DefaultCities
 import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
@@ -24,7 +25,8 @@ data class StaatsOperBerlinEventDto(
     val duration: String?,
     val ticketUrl: String?,
     val priceText: String?,
-    val city: String = "Berlin"
+    val category: String?,
+    val city: String = DefaultCities.BERLIN
 ) {
     fun toEvent(): EventDto =
         EventDto(
@@ -35,7 +37,9 @@ data class StaatsOperBerlinEventDto(
             duration = duration,
             location = venueName,
             price = priceText,
-            ticketUrl = ticketUrl
+            ticketUrl = ticketUrl,
+            category = category,
+            author = workInfo
         )
 }
 

@@ -33,6 +33,6 @@ class DeutscheOperBerlinEventService(
         return responseBody
     }
 
-    fun mapToDtos(response: DeutscheOperBerlinEventResponseDto): List<EventDto> =
-        response.toEvents()
+//    fun mapToDtos(response: DeutscheOperBerlinEventResponseDto): List<EventDto> =
+//        response.toEvents()
 }

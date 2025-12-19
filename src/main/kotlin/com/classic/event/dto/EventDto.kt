@@ -12,7 +12,9 @@ data class EventDto(
     val duration: String?,
     val location: String?,
     val price: String?,
-    val ticketUrl: String?
+    val ticketUrl: String?,
+    val category: String?,
+    val author: String?
 ) {
     fun toEntity(): EventEntity =
         EventEntity(
@@ -23,7 +25,9 @@ data class EventDto(
             duration = duration,
             location = location,
             price = price,
-            ticketUrl = ticketUrl
+            ticketUrl = ticketUrl,
+            category =  category,
+            author = author
         )
 }
 
@@ -36,5 +40,7 @@ fun EventEntity.toDto(): EventDto =
         duration = duration,
         location = location,
         price = price,
-        ticketUrl = ticketUrl
+        ticketUrl = ticketUrl,
+        category = category,
+        author = author
     )

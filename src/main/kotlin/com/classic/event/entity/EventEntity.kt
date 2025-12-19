@@ -15,9 +15,9 @@ data class EventEntity(
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     val id: Long? = null,
 
-    val city: String? = null,
-
     val title: String? = null,
+
+    val city: String? = null,
 
     @Column(name = "detail_url", unique = true)
     val detailUrl: String? = null,
@@ -31,6 +31,9 @@ data class EventEntity(
 
     @Column(name = "ticket_url")
     val ticketUrl: String? = null,
+
+    val category: String? = null,
+    val author: String? = null,
 
     @Column(name = "created_at", insertable = false, updatable = false)
     val createdAt: LocalDateTime? = null,

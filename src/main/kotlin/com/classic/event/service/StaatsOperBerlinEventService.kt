@@ -3,6 +3,7 @@ package com.classic.event.service
 import com.classic.event.entity.EventEntity
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
 import com.classic.event.dto.StaatsOperBerlinEventDto
+import com.classic.event.parsers.StaatsOperBerlinHtmlParser
 import constants.DatePattern.DATE_DASH_DMY
 import properties.StaatsOperBerlinProperties
 import java.time.LocalDate
@@ -51,7 +52,9 @@ class StaatsOperBerlinEventService(
             duration = dto.duration?.clean(),
             location = dto.venueName?.clean()?.replaceFirstChar { it.titlecase(Locale.getDefault()) },
             price = dto.priceText?.clean(),
-            ticketUrl = normalizedTicketUrl
+            ticketUrl = normalizedTicketUrl,
+            category = dto.category,
+            author = dto.workInfo
         )
     }
 

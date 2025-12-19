@@ -59,7 +59,10 @@ data class EventOverviewDto(
     @field:JsonProperty("IsArchived")
     val isArchived: Boolean? = null,
     @field:JsonProperty("AgeIndication")
-    val ageIndication: String? = null
+    val ageIndication: String? = null,
+
+    @field:JsonProperty("OpusInfoShort")
+    val opusInfo: String? = null
 )
 
 @JsonIgnoreProperties(ignoreUnknown = true)
@@ -84,7 +87,9 @@ fun EventOverviewDto.toEvent(): EventDto =
         duration = duration?.toString(),
         location = location,
         price = priceValueMinMax,
-        ticketUrl = priceUrl
+        ticketUrl = priceUrl,
+        category = contentCategory,
+        author = opusInfo
     )
 
 private fun transformDate(input: String): LocalDateTime {

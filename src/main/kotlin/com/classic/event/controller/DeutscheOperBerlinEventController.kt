@@ -17,18 +17,12 @@ class DeutscheOperBerlinEventController(
     fun persistData() {
         var page = 1
         for (a in 0..2) {
-            val response = eventService.fetchEvents(pageNumber = page.toString())
-            val events = eventService.mapToDtos(response)
+            val events = eventService.fetchEvents(pageNumber = page.toString()).toEvents()
             if (events.isNotEmpty()) {
                 eventPersistenceService.saveAllFromDtos(events)
             }
             page += 1
         }
 //         while (response.pager?.isLastPage == false)
-    }
-
-    fun fetchEvents(pageNumber: String = "1"
-    ): ResponseEntity<DeutscheOperBerlinEventResponseDto> {
-        return ResponseEntity.ok(eventService.fetchEvents(pageNumber = pageNumber))
     }
 }

@@ -1,13 +1,13 @@
-package com.classic.event.service
+package com.classic.event.parsers
 
 import com.classic.event.dto.StaatsOperBerlinDayDto
 import com.classic.event.dto.StaatsOperBerlinEventDto
 import com.classic.event.dto.StaatsOperBerlinEventResponseDto
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.springframework.stereotype.Component
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
 
 @Component
 class StaatsOperBerlinHtmlParser {
@@ -58,7 +58,8 @@ class StaatsOperBerlinHtmlParser {
             workInfo = article.selectFirst(".termin__werkinfo")?.text().clean(),
             duration = article.selectFirst(".termin__spieldauer")?.text().clean(),
             ticketUrl = article.selectFirst(".termin__ticket-button a")?.attr("href")?.clean(),
-            priceText = article.selectFirst(".termin__preisinformation")?.text().clean()
+            priceText = article.selectFirst(".termin__preisinformation")?.text().clean(),
+            category = null
         )
     }
 

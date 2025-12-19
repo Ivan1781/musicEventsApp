@@ -1,14 +1,19 @@
 package com.classic.event
 
-import properties.DeutscheOperBerlinProperties
-import properties.StaatsOperBerlinProperties
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.boot.runApplication
+import properties.DeutscheOperBerlinProperties
+import properties.SemperOperDresdenProperties
+import properties.StaatsOperBerlinProperties
 
 @SpringBootApplication
 @EnableConfigurationProperties(
-    value = [DeutscheOperBerlinProperties::class, StaatsOperBerlinProperties::class],
+    value = [
+        DeutscheOperBerlinProperties::class,
+        StaatsOperBerlinProperties::class,
+        SemperOperDresdenProperties::class
+    ],
 )
 class EventApplication
 
