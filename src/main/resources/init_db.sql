@@ -42,7 +42,7 @@ create table if not exists events (
     author text,
     created_at timestamp default now(),
     updated_at timestamp default now(),
-    constraint uq_events_detail unique (detail_url)
+    constraint uq_events_detail_datetime unique (detail_url, date_time)
 );
 
 create index if not exists idx_events_date_time on events(date_time);

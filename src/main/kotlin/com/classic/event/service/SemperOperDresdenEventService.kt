@@ -14,17 +14,17 @@ class SemperOperDresdenEventService(
     private val remoteSiteService: RemoteSiteService,
     private val properties: SemperOperDresdenProperties
 ) {
-    fun fetchEvents(eventNumber: Int): DresdenSemperOperEventListDto {
-        val responseBody =
-            remoteSiteService.fetch(
-                url = properties.url,
-                headers = properties.headers,
-                queryParams = properties.params + mapOf(
-                    "loadingCount" to eventNumber.toString()),
-                responseType = object : ParameterizedTypeReference<String>() {}
-            )
-
-        return SemperOperDresdenParser.parse(responseBody)
+    fun fetchEvents(eventNumber: Int) {
+//        val responseBody =
+//            remoteSiteService.fetch(
+//                url = properties.url,
+//                headers = properties.headers,
+//                queryParams = properties.params + mapOf(
+//                    "loadingCount" to eventNumber.toString()),
+//                responseType = object : ParameterizedTypeReference<String>() {}
+//            )
+//
+//        return SemperOperDresdenParser.parse(responseBody)
     }
 
     fun toEvents(response: DresdenSemperOperEventListDto): List<EventEntity> =
@@ -39,6 +39,7 @@ class SemperOperDresdenEventService(
         val normalizedCategory = dto.category.trim().ifBlank { null }
         val normalizedAuthor = dto.author.trim().ifBlank { null }
         val normalizedStatus = dto.status.trim().ifBlank { null }
+        val normalizedPrice = dto.price.trim().ifBlank { null }
         val parsedDateTime = dto.dateTime
             .trim()
             .takeIf { it.isNotEmpty() }
@@ -49,7 +50,7 @@ class SemperOperDresdenEventService(
             city = normalizedCity,
             detailUrl = normalizedDetailUrl,
             dateTime = parsedDateTime,
-            price = normalizedStatus,
+            price = normalizedPrice ?: normalizedStatus,
             category = normalizedCategory,
             author = normalizedAuthor
         )

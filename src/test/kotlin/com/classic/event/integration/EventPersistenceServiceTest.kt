@@ -72,7 +72,7 @@ class EventPersistenceServiceTest {
 
     @Test
     fun `saveAll with duplicated events`() {
-        val entity = baseEntity.copy(detailUrl = getTestUrl("https://example.com/berlinevents") )
+        val entity = baseEntity.copy(detailUrl = getTestUrl("https://example.com/berlinevents"))
         val entityList = listOf(entity, entity.copy())
 
         val saved = service.saveAll(entityList)
@@ -84,5 +84,6 @@ class EventPersistenceServiceTest {
 
         assertThat(persisted.get().id).isEqualTo(savedEntity.id)
         assertThat(persisted.get().detailUrl).isEqualTo(savedEntity.detailUrl)
+        // verify the other fields
     }
 }

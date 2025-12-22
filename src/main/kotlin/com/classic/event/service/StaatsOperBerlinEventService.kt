@@ -14,8 +14,7 @@ import org.springframework.stereotype.Service
 @Service
 class StaatsOperBerlinEventService(
     private val remoteSiteService: RemoteSiteService,
-    private val properties: StaatsOperBerlinProperties,
-    private val parser: StaatsOperBerlinHtmlParser
+    private val properties: StaatsOperBerlinProperties
 ) {
     private val siteBaseUrl =
         properties.url.substringBefore("/de/spielplan").ifBlank { "https://www.staatsoper-berlin.de" }
@@ -30,7 +29,7 @@ class StaatsOperBerlinEventService(
                 queryParams = properties.params,
                 responseType = object : ParameterizedTypeReference<String>() {}
             )
-        return parser.parse(html)
+        return StaatsOperBerlinHtmlParser.parse(html)
     }
 
     fun mapToEvents(response: StaatsOperBerlinEventResponseDto): List<EventEntity> =

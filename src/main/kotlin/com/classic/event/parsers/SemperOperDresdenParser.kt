@@ -1,48 +1,48 @@
 package com.classic.event.parsers
 
-import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import com.fasterxml.jackson.module.kotlin.readValue
 import com.classic.event.dto.DresdenSemperOperEventDto
 import com.classic.event.dto.DresdenSemperOperEventListDto
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
 
 object SemperOperDresdenParser {
+    private val dateTimeFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
 
-    private val mapper = jacksonObjectMapper()
-
-    fun parse(body: String): DresdenSemperOperEventListDto {
-        val htmlFragments = parseJsonBody(body)
-        val events = htmlFragments.mapNotNull { parseEvent(it) }
+    fun parse(body: List<String>): DresdenSemperOperEventListDto {
+        val events = body.map { parseEvent(it) }
         return DresdenSemperOperEventListDto(events)
     }
 
-    private fun parseJsonBody(body: String): List<String> {
-        val sanitized = body.replace("\n", "").replace("\r", "")
-        val htmlByKey: Map<String, String> = mapper.readValue(sanitized)
-        return htmlByKey
-            .entries
-            .sortedBy { it.key.toIntOrNull() }
-            .map { it.value }
-    }
-
-    private fun parseEvent(html: String): DresdenSemperOperEventDto? {
-        val document = Jsoup.parse(html)
-        val container = document.selectFirst("div.frame.filter-frame-element.frame-spielplan") ?: return null
-        val headerLink = container.selectFirst("h2.ni-header.order-1 a")
+    private fun parseEvent(htmlEvent: String): DresdenSemperOperEventDto {
+        val root = Jsoup.parseBodyFragment(htmlEvent).body()
+        val headerLink = root.selectFirst("h2.ni-header.order-1 a")
+        val priceInfo = root.selectFirst(".ni-event-pricecategory [aria-hidden=true]")?.text()?.trim() ?:
+            root.selectFirst(".so_pricerange")?.text()?.trim().orEmpty()
+        val rawDateTime = root.selectFirst("time.sr-only")?.attr("datetime")?.trim().orEmpty()
+        val formattedDateTime = formatDateTime(rawDateTime)
 
         return DresdenSemperOperEventDto(
-            category = container.textFrom("span.ni-event-category"),
+            category = root.textFrom("span.ni-event-category"),
             detailUrl = headerLink?.attr("href")?.trim().orEmpty(),
             title = headerLink?.text()?.trim().orEmpty(),
-            author = container.textFrom("div.order-2.ni-subtitle"),
-            dateTime = container.selectFirst("time.sr-only")?.attr("datetime")?.trim().orEmpty(),
-            status = container.textFrom("span.so_pricerange"),
+            author = root.textFrom("div.order-2.ni-subtitle"),
+            dateTime = formattedDateTime,
+            status = root.textFrom("span.so_pricerange"),
+            price = priceInfo,
+            location = root.textFrom(".ni-event-venue [aria-hidden=true]"),
             city = "Dresden"
         )
     }
 
     private fun Element.textFrom(selector: String): String {
         return this.selectFirst(selector)?.text()?.trim().orEmpty()
+    }
+
+    private fun formatDateTime(raw: String): String {
+        if (raw.isBlank()) return ""
+        return runCatching { LocalDateTime.parse(raw).format(dateTimeFormatter) }
+            .getOrElse { raw }
     }
 }

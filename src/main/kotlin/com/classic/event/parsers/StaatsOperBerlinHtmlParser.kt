@@ -10,7 +10,7 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 
 @Component
-class StaatsOperBerlinHtmlParser {
+object StaatsOperBerlinHtmlParser {
     private val dateTimeFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
 
     fun parse(html: String): StaatsOperBerlinEventResponseDto {
