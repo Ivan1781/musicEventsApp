@@ -6,6 +6,7 @@ import jakarta.persistence.GeneratedValue
 import jakarta.persistence.GenerationType
 import jakarta.persistence.Id
 import jakarta.persistence.Table
+import java.security.MessageDigest
 import java.time.LocalDateTime
 
 @Entity
@@ -40,4 +41,23 @@ data class EventEntity(
 
     @Column(name = "updated_at", insertable = false, updatable = false)
     val updatedAt: LocalDateTime? = null
-)
+) {
+    fun calculateHash(): String {
+        val dataToHash = listOfNotNull(
+            title,
+            city,
+            detailUrl,
+            dateTime?.toString(),
+            duration,
+            location,
+            price,
+            ticketUrl,
+            category,
+            author
+        ).joinToString("|")
+
+        return MessageDigest.getInstance("SHA-256")
+            .digest(dataToHash.toByteArray())
+            .joinToString("") { "%02x".format(it) }
+    }
+}

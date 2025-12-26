@@ -1,18 +1,18 @@
 package com.classic.event.controller
 
 import com.classic.event.dto.toEvents
-import com.classic.event.service.DeutscheOperBerlinEventService
 import com.classic.event.service.EventPersistenceService
+import com.classic.event.service.HannoverStaatsTheaterEventService
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
 
 @RestController
-class DeutscheOperBerlinEventController(
-    private val eventService: DeutscheOperBerlinEventService,
+class HannoverStaatsTheaterEventController(
+    private val eventService: HannoverStaatsTheaterEventService,
     private val eventPersistenceService: EventPersistenceService
 ) {
 
-    @GetMapping("/eventBerlin")
+    @GetMapping("/eventHannover")
     fun persistData() {
         var page = 1
         for (a in 0..2) {
@@ -22,6 +22,5 @@ class DeutscheOperBerlinEventController(
             }
             page += 1
         }
-//         while (response.pager?.isLastPage == false)
     }
 }

@@ -4,6 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.boot.runApplication
 import properties.DeutscheOperBerlinProperties
+import properties.HannoverStaatsTheaterProperties
 import properties.SemperOperDresdenProperties
 import properties.StaatsOperBerlinProperties
 
@@ -11,6 +12,7 @@ import properties.StaatsOperBerlinProperties
 @EnableConfigurationProperties(
     value = [
         DeutscheOperBerlinProperties::class,
+        HannoverStaatsTheaterProperties::class,
         StaatsOperBerlinProperties::class,
         SemperOperDresdenProperties::class
     ],

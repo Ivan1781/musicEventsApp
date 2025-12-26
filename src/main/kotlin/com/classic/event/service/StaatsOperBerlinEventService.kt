@@ -5,6 +5,7 @@ import com.classic.event.dto.StaatsOperBerlinEventResponseDto
 import com.classic.event.dto.StaatsOperBerlinEventDto
 import com.classic.event.parsers.StaatsOperBerlinHtmlParser
 import constants.DatePattern.DATE_DASH_DMY
+import constants.DefaultCities
 import properties.StaatsOperBerlinProperties
 import java.time.LocalDate
 import java.util.Locale
@@ -19,7 +20,7 @@ class StaatsOperBerlinEventService(
     private val siteBaseUrl =
         properties.url.substringBefore("/de/spielplan").ifBlank { "https://www.staatsoper-berlin.de" }
 
-    fun fetchSchedule(date: LocalDate): StaatsOperBerlinEventResponseDto {
+    fun fetchEvents(date: LocalDate): StaatsOperBerlinEventResponseDto {
         val formattedDate = date.format(DATE_DASH_DMY)
         val targetUrl = properties.url.format(formattedDate)
         val html =
@@ -45,7 +46,6 @@ class StaatsOperBerlinEventService(
 
         return EventEntity(
             title = normalizedTitle,
-            city = "Berlin",
             detailUrl = normalizedDetailUrl,
             dateTime = dto.dateTime,
             duration = dto.duration?.clean(),
@@ -53,7 +53,8 @@ class StaatsOperBerlinEventService(
             price = dto.priceText?.clean(),
             ticketUrl = normalizedTicketUrl,
             category = dto.category,
-            author = dto.workInfo
+            author = dto.workInfo,
+            city = DefaultCities.BERLIN
         )
     }
 

@@ -1,32 +1,31 @@
 package com.classic.event.service
 
-import com.classic.event.dto.DeutscheOperBerlinEventResponseDto
-import constants.DatePattern.DATE_DOT_DMY
+import com.classic.event.dto.HannoverStaatsTheaterEventResponseDto
+import constants.DatePattern.DATE_DASH_DMY
 import java.time.LocalDate
 import org.springframework.core.ParameterizedTypeReference
 import org.springframework.stereotype.Service
-import properties.DeutscheOperBerlinProperties
+import properties.HannoverStaatsTheaterProperties
 
 @Service
-class DeutscheOperBerlinEventService(
+class HannoverStaatsTheaterEventService(
     private val remoteSiteService: RemoteSiteService,
-    private val properties: DeutscheOperBerlinProperties
+    private val properties: HannoverStaatsTheaterProperties
 ) {
     fun fetchEvents(
         date: LocalDate = LocalDate.now(),
         pageNumber: String = "1"
-    ): DeutscheOperBerlinEventResponseDto {
+    ): HannoverStaatsTheaterEventResponseDto {
         val responseBody =
             remoteSiteService.fetch(
                 url = properties.url,
                 headers = properties.headers,
                 queryParams = properties.params + mapOf(
-                    "date" to date.format(DATE_DOT_DMY),
+                    "date_from" to date.format(DATE_DASH_DMY),
                     "p" to pageNumber
                 ),
-                responseType = object : ParameterizedTypeReference<DeutscheOperBerlinEventResponseDto>() {}
+                responseType = object : ParameterizedTypeReference<HannoverStaatsTheaterEventResponseDto>() {}
             )
-
         return responseBody
     }
 }

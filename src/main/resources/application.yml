@@ -37,6 +37,15 @@ event:
       category: ""
       location: ""
       status_type: ""
+  hannover-staatstheater:
+    url: https://staatstheater-hannover.de/de_DE/event.json
+    params:
+      current_page: "kalender"
+      current_language: ""
+      keyword: ""
+      status: ""
+      location: "alle"
+      category: "alle"
   staatsoper-berlin:
     url: https://www.staatsoper-berlin.de/de/spielplan/_f/%s
   semper-oper-dresden:

@@ -58,7 +58,8 @@ object StaatsOperBerlinHtmlParser {
             workInfo = article.selectFirst(".termin__werkinfo")?.text().clean(),
             duration = article.selectFirst(".termin__spieldauer")?.text().clean(),
             ticketUrl = article.selectFirst(".termin__ticket-button a")?.attr("href")?.clean(),
-            priceText = article.selectFirst(".termin__preisinformation")?.text().clean(),
+            priceText = article.selectFirst(".termin__preisinformation span span")?.text().clean()
+                ?: article.selectFirst(".termin__ticket-infos")?.text().clean(),
             category = null
         )
     }

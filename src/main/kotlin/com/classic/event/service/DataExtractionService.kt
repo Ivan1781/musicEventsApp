@@ -29,6 +29,7 @@ class DataExtractionService(
 //            }
 //        }
 
+
     private fun ResultSet.toEvent(): EventEntity =
         EventEntity(
             id = getObject("id", Long::class.java),
